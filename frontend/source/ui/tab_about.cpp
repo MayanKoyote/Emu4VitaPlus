@@ -100,6 +100,7 @@ void TabAbout::_InitTexts()
               std::string(TEXT(LANG_ITALIAN_TRANS)) + ": theheroGAC",
               std::string(TEXT(LANG_FRENCH_TRANS)) + ": chronoss09",
               std::string(TEXT(LANG_SPANISH_TRANS)) + ": limonetas",
+              std::string(TEXT(LANG_RUSSIAN_TRANS)) + ": MayanKoyote",
               std::string(TEXT(LANG_SITE)) + ": https://github.com/noword/Emu4VitaPlus",
               "",
               TEXT(LANG_EXTERNAL_COMPONENTS),
