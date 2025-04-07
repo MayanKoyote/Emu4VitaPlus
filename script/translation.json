@@ -260,7 +260,7 @@
         "Italian": "Metodo di salvataggio di backup (Riavvio)",
         "French": "",
         "Spanish": "Método de guardado de copia de seguridad (reiniciar)",
-        "Russian": "Метод сохранения резервной копии (требуется перезапуск)",
+        "Russian": "Формат файлов сохранений (перезапуск)",
         "Comments": ""
     },
     {
@@ -348,7 +348,7 @@
         "Italian": "Regione della console (Riavvio)",
         "French": "",
         "Spanish": "Región de la consola (reiniciar)",
-        "Russian": "Регион консоли (требуется перезапуск)",
+        "Russian": "Регион консоли (перезапуск)",
         "Comments": ""
     },
     {
@@ -414,7 +414,7 @@
         "Italian": "Riduzione rallentamenti (Hack, Non sicuro, Riavvio)",
         "French": "",
         "Spanish": "Reducir la ralentización (hack, inestable, reiniciar)",
-        "Russian": "Сокращение замедлений (Нестабильный хак, требуется перезапуск)",
+        "Russian": "Сокращение замедлений (нестабильно)",
         "Comments": ""
     },
     {
@@ -425,7 +425,7 @@
         "Italian": "Molti giochi per SNES soffrivano di rallentamenti a causa della debole CPU principale. Questa opzione aiuta a mitigare ciò al costo di possibili bug. COMPATIBILE: riduce i rallentamenti ma mantiene la compatibilità con i giochi il più possibile. MASSIMO: riduce i rallentamenti il più possibile ma romperà più giochi.",
         "French": "",
         "Spanish": "Muchos juegos para SNES sufrieron una ralentización debido a la debilidad de la CPU principal. Esta opción ayuda a aliviar eso a costa de posibles errores. COMPATIBLE: Reduce la ralentización pero mantén la mayor compatibilidad posible con el juego. MAX: Reduce la ralentización tanto como sea posible, pero romperá más juegos.",
-        "Russian": "Многие игры для SNES страдали от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, но сохраняет совместимость с играми, насколько это возможно. [Max] — максимально снижает замедление, но при этом значительно нарушает игровой процесс.",
+        "Russian": "Многие игры для SNES страдали от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, но сохраняет совместимость с играми, насколько это возможно. [Max] — максимально снижает замедление, но при этом значительно нарушает игровой процесс. Требуется перезапуск.",
         "Comments": ""
     },
     {
@@ -436,7 +436,7 @@
         "Italian": "Riduzione sfarfallio (Hack, Non sicuro)",
         "French": "",
         "Spanish": "Reducir el parpadeo (hack, inestable)",
-        "Russian": "Уменьшение мерцания (Нестабильный хак)",
+        "Russian": "Уменьшение мерцания (нестабильно)",
         "Comments": ""
     },
     {
@@ -711,7 +711,7 @@
         "Italian": "Hardware emulato (Riavvio richiesto)",
         "French": "",
         "Spanish": "Hardware emulado (es necesario reiniciar)",
-        "Russian": "Эмулируемое оборудование (требуется перезапуск)",
+        "Russian": "Эмулируемое оборудование (перезапуск)",
         "Comments": ""
     },
     {
@@ -722,7 +722,7 @@
         "Italian": "Usa bootloader ufficiale (Riavvio richiesto)",
         "French": "",
         "Spanish": "Usar el bootloader oficial (reiniciar)",
-        "Russian": "Использовать официальный загрузчик (требуется перезапуск)",
+        "Russian": "Официальный загрузчик (перезапуск)",
         "Comments": ""
     },
     {
@@ -854,7 +854,7 @@
         "Italian": "Add-on Game Genie (Riavvio richiesto)",
         "French": "",
         "Spanish": "Game Genie add-on (reiniciar)",
-        "Russian": "Дополнение Game Genie (требуется перезапуск)",
+        "Russian": "Дополнение Game Genie (перезапуск)",
         "Comments": ""
     },
     {
@@ -2339,7 +2339,7 @@
         "Italian": "(Dual Stick) Asse X P2",
         "French": "",
         "Spanish": "(Dual Stick) P2 X-Axis",
-        "Russian": "(Dual Stick) P2 X-Axis",
+        "Russian": "(Dual Stick) P2 ось X",
         "Comments": ""
     },
     {
@@ -2350,7 +2350,7 @@
         "Italian": "(Dual Stick) Asse Y P2",
         "French": "",
         "Spanish": "(Dual Stick) P2 Y-Axis",
-        "Russian": "(Dual Stick) P2 Y-Axis",
+        "Russian": "(Dual Stick) P2 ось Y",
         "Comments": ""
     },
     {
@@ -3087,7 +3087,7 @@
         "Italian": "Add-on CD (modalità MD) (Richiede riavvio)",
         "French": "",
         "Spanish": "Complemento de CD (modo MD) (Requiere reinicio)",
-        "Russian": "Дополнение CD (режим MD) (требуется перезапуск)",
+        "Russian": "Дополнение CD (режим MD) (перезапуск)",
         "Comments": ""
     },
     {
@@ -3296,7 +3296,7 @@
         "Italian": "BRAM della cartuccia di backup CD (Richiede riavvio)",
         "French": "",
         "Spanish": "Respaldo de CD Cartucho BRAM (requiere reinicio)",
-        "Russian": "Картридж CD BRAM (требуется перезапуск)",
+        "Russian": "Картридж CD BRAM (перезапуск)",
         "Comments": ""
     },
     {
@@ -3318,7 +3318,7 @@
         "Italian": "Dimensione BRAM della cartuccia di backup CD (Richiede riavvio)",
         "French": "",
         "Spanish": "Tamaño del cartucho de respaldo CD BRAM (requiere reinicio)",
-        "Russian": "Размер картриджа CD BRAM (требуется перезапуск)",
+        "Russian": "Размер картриджа CD BRAM (перезапуск)",
         "Comments": ""
     },
     {
@@ -3868,7 +3868,7 @@
         "Italian": "Scorrimento verticale migliorato per tile",
         "French": "",
         "Spanish": "Mejora del desplazamiento vertical por mosaicos.",
-        "Russian": "Улучшенная вертикальная прокрутка по ячейкам",
+        "Russian": "Улучшенная вертикальная прокрутка",
         "Comments": ""
     },
     {
@@ -3879,7 +3879,7 @@
         "Italian": "Consente a ogni singola cella di scorrere verticalmente, invece di 16px 2-celle, mediando il valore di scorrimento verticale (vscroll) della cella adiacente. Questa modifica si applica solo a pochi giochi che utilizzano la modalità di scorrimento verticale a 2 celle.",
         "French": "",
         "Spanish": "Permite desplazar verticalmente cada celda en lugar de dos celdas de 16 píxeles promediando el valor de vscroll de las celdas adyacentes. Este truco solo se aplica a algunos juegos que utilizan el modo de desplazamiento vertical de dos celdas.",
-        "Russian": "Позволяет прокручивать каждую отдельную ячейку по вертикали вместо 16px в 2 ячейках, усредняя значение vscroll соседней ячейки. Этот способ применим только к нескольким играм, в которых используется режим вертикальной прокрутки по 2 ячейкам.",
+        "Russian": "Позволяет прокручивать каждую ячейку по вертикали отдельно, усредняя значение vscroll соседней ячейки, а не ограничиваться 2 ячейками (16 пикселей). Этот способ применим только к нескольким играм, в которых используется режим вертикальной прокрутки по 2 ячейкам.",
         "Comments": ""
     },
     {
@@ -3890,7 +3890,7 @@
         "Italian": "Limite di scorrimento verticale migliorato per tile",
         "French": "",
         "Spanish": "Límite de desplazamiento vertical por mosaico mejorado",
-        "Russian": "Предел улучшения вертикальной прокрутки по ячейкам",
+        "Russian": "Предел улучшения вертикальной прокрутки",
         "Comments": ""
     },
     {
@@ -3901,7 +3901,7 @@
         "Italian": "Solo quando lo scorrimento verticale migliorato per tile è abilitato. Regola il limite del miglioramento dello scorrimento verticale. Quando la differenza di scorrimento verticale (vscroll) tra le tile adiacenti è maggiore di questo limite, il miglioramento viene disabilitato.",
         "French": "",
         "Spanish": "Solo cuando está habilitado el desplazamiento vertical por mosaico mejorado. Ajusta el límite de la mejora del desplazamiento vertical. Cuando la diferencia de vscroll entre mosaicos vecinos es mayor que este límite, la mejora se desactiva.",
-        "Russian": "Действует только в том случае, если включена улучшенная вертикальная прокрутка по ячейкам. Если разница значений vscroll соседних ячеек превышает этот предел, усиление автоматически отключается.",
+        "Russian": "Действует только в том случае, если включена улучшенная вертикальная прокрутка. Если разница значений vscroll соседних ячеек превышает этот предел, улучшение автоматически отключается.",
         "Comments": ""
     },
     {
@@ -4330,7 +4330,7 @@
         "Italian": "BRAM del Sistema CD (Richiede Riavvio)",
         "French": "",
         "Spanish": "CD System BRAM (requiere reinicio)",
-        "Russian": "BRAM консоли (требуется перезапуск)",
+        "Russian": "BRAM консоли (перезапуск)",
         "Comments": ""
     },
     {
@@ -4858,7 +4858,7 @@
         "Italian": "Riempimento RAM all'Accensione (Richiede Riavvio)",
         "French": "",
         "Spanish": "Llenado de RAM al encender (requiere reinicio)",
-        "Russian": "Начальные значения ОЗУ (требуется перезагрузка)",
+        "Russian": "Начальные значения ОЗУ (перезапуск)",
         "Comments": ""
     },
     {
@@ -5100,7 +5100,7 @@
         "Italian": "Riduci Rallentamenti (Non Sicuro, Riavvio)",
         "French": "",
         "Spanish": "Reducir las ralentizaciones (inseguro, reinicio)",
-        "Russian": "Сокращение замедлений (Нестабильный хак, требуется перезапуск)",
+        "Russian": "Сокращение замедлений (нестабильно)",
         "Comments": ""
     },
     {
@@ -5111,7 +5111,7 @@
         "Italian": "Overclock della CPU SNES. Potrebbe causare il crash dei giochi! Usa 'AutoFastROM' per tempi di caricamento più brevi, 'Basso' per la maggior parte dei giochi che mostrano rallentamenti e 'Alto' solo se strettamente necessario.",
         "French": "",
         "Spanish": "Overclocking de CPU SNES. ¡Puede hacer que los juegos se bloqueen! Use 'AutoFastROM' para tiempos de carga más cortos, 'Bajo' para la mayoría de los juegos que muestran ralentizaciones y 'Alto' solo si es absolutamente necesario.",
-        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Используйте [AutoFastROM] для уменьшения времени загрузки, [Слабый] для большинства игр, в которых наблюдается замедление, и [Значительный] только в случае крайней необходимости.",
+        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Используйте [AutoFastROM] для уменьшения времени загрузки, [Слабый] для большинства игр, в которых наблюдается замедление, и [Значительный] только в случае крайней необходимости. Требуется перезапуск.",
         "Comments": ""
     },
     {
@@ -5331,7 +5331,7 @@
         "Italian": "Riduci Sfarfallio (Non Sicuro)",
         "French": "",
         "Spanish": "Reducir el parpadeo (no seguro)",
-        "Russian": "Уменьшение мерцания (Нестабильный хак)",
+        "Russian": "Уменьшение мерцания (нестабильно)",
         "Comments": ""
     },
     {
@@ -5375,7 +5375,7 @@
         "Italian": "Abilita il supporto per i bootloader ufficiali di Game Boy e Game Boy Color, con le corrispondenti animazioni del logo di avvio.",
         "French": "",
         "Spanish": "Habilita la compatibilidad con los cargadores de arranque oficiales de Game Boy y Game Boy Color, con las animaciones correspondientes del logotipo de arranque.",
-        "Russian": "Поддержка официальных загрузчиков Game Boy и Game Boy Color с соответствующими анимациями логотипа при запуске.",
+        "Russian": "Использовать официальные загрузчики Game Boy и Game Boy Color с соответствующими анимациями логотипа при запуске.",
         "Comments": ""
     },
     {
