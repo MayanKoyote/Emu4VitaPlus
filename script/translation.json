@@ -469,7 +469,7 @@
         "Italian": "interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенный",
+        "Russian": "Встроенный SMALL",
         "Comments": ""
     },
     {
@@ -480,7 +480,7 @@
         "Italian": "personalizzato",
         "French": "",
         "Spanish": "Personalizado",
-        "Russian": "Настраиваемый",
+        "Russian": "Настраиваемый SMALL",
         "Comments": ""
     },
     {
@@ -612,7 +612,7 @@
         "Italian": "Correzione colore - Posizione luce frontale",
         "French": "",
         "Spanish": "Corrección de color - Posición de la luz frontal",
-        "Russian": "Цветокоррекция — положение передней подсветки",
+        "Russian": "Положение передней подсветки",
         "Comments": ""
     },
     {
@@ -5496,7 +5496,7 @@
         "Italian": "Interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенный",
+        "Russian": "Встроенный BIG",
         "Comments": ""
     },
     {
@@ -5507,7 +5507,7 @@
         "Italian": "Personalizzato",
         "French": "",
         "Spanish": "Personalizado",
-        "Russian": "Настраиваемый",
+        "Russian": "Настраиваемый BIG",
         "Comments": ""
     }
 ]
