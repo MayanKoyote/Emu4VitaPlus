@@ -106,7 +106,7 @@
         "Italian": "Salta fotogrammi per evitare under-run del buffer audio (crepitio). Migliora le prestazioni a scapito della fluidità visiva. 'Auto' salta i fotogrammi quando consigliato dal frontend. 'Auto (Soglia)' utilizza l'impostazione 'Soglia di salto fotogrammi (%)'. 'Intervallo fisso' utilizza l'impostazione 'Intervallo di salto fotogrammi'.",
         "French": "",
         "Spanish": "Omita fotogramas para evitar que el búfer de audio se desborde (crepite). Mejora el rendimiento a expensas de la suavidad visual. 'Auto' se salta fotogramas cuando lo aconseja la interfaz. 'Auto (Threshold)' utiliza el ajuste 'Frameskip Threshold (%)'. 'Intervalo fijo' utiliza la configuración 'Intervalo de salto de fotogramas'.",
-        "Russian": "Пропускать кадры, чтобы избежать переполнения аудиобуфера (потрескиваний). Улучшает производительность за счёт визуальной плавности. [Автоматически] — пропускает кадры по указанию пользовательского интерфейса. [Автоматически (порог)] — использует значение настройки 'Порог пропуска кадров (%)'. [Фиксированный интервал] — использует значение настройки 'Интервал пропуска кадров'.",
+        "Russian": "Пропускать кадры, чтобы избежать переполнения аудиобуфера (потрескиваний). Улучшает производительность за счёт визуальной плавности. [Автоматически] — пропускает кадры по указанию пользовательского интерфейса. [Автоматически (порог)] — использует значение параметра “Порог пропуска кадров (%)”. [Фиксированный интервал] — использует значение параметра “Интервал пропуска кадров”.",
         "Comments": ""
     },
     {
@@ -172,7 +172,7 @@
         "Italian": "Quando 'Salto fotogrammi' è impostato su 'Manuale', specifica la soglia di occupazione del buffer audio (percentuale) al di sotto della quale i fotogrammi verranno saltati. Valori più alti riducono il rischio di crepitio facendo cadere i fotogrammi più frequentemente.",
         "French": "",
         "Spanish": "Cuando 'Salto de fotogramas' se establece en 'Manual', especifica el umbral de ocupación del búfer de audio (porcentaje) por debajo del cual se omitirán los fotogramas. Los valores más altos reducen el riesgo de crujido al hacer que los fotogramas se caigan con más frecuencia.",
-        "Russian": "Если для параметра 'Пропуск кадров' установлено значение [Вручную], этот параметр определяет пороговое значение заполнения аудиобуфера (в процентах), ниже которого кадры будут пропускаться. Более высокие значения приведут к более частому пропуску кадров, что снизит риск появления потрескиваний.",
+        "Russian": "Если для параметра “Пропуск кадров” установлено значение [Вручную], этот параметр определяет пороговое значение заполнения аудиобуфера (в процентах), ниже которого кадры будут пропускаться. Более высокие значения приведут к более частому пропуску кадров, что снизит риск появления потрескиваний.",
         "Comments": ""
     },
     {
@@ -194,7 +194,7 @@
         "Italian": "Quando 'Salto fotogrammi' è impostato su 'Intervallo fisso', il valore impostato qui è il numero di fotogrammi omessi dopo il rendering di un fotogramma - ad esempio '0' = 60fps, '1' = 30fps, '2' = 15fps, ecc.",
         "French": "",
         "Spanish": "Cuando 'Salto de fotogramas' se establece en 'Intervalo fijo', el valor establecido aquí es el número de fotogramas omitidos después de que se procesa un fotograma, es decir, '0' = 60 fps, '1' = 30 fps, '2' = 15 fps, etc.",
-        "Russian": "Если для параметра 'Пропуск кадров' установлено значение [Фиксированный интервал], то заданное здесь значение — это количество кадров, которые будут пропущены после рендеринга кадра. [0] — 60 кадров в секунду, [1] — 30 кадров в секунду, [2] — 15 кадров в секунду и так далее.",
+        "Russian": "Если для параметра “Пропуск кадров” установлено значение [Фиксированный интервал], то заданное здесь значение — это количество кадров, которые будут пропущены после отрисовки кадра. [0] — 60 кадров в секунду, [1] — 30 кадров в секунду, [2] — 15 кадров в секунду и так далее.",
         "Comments": ""
     },
     {
@@ -216,7 +216,7 @@
         "Italian": "Regola i colori in uscita per corrispondere alla visualizzazione dell'hardware GBA reale.",
         "French": "",
         "Spanish": "Ajusta los colores de salida para que coincidan con la visualización del hardware GBA real.",
-        "Russian": "Настройка цвета в соответствии с отображением на реальном оборудовании GBA.",
+        "Russian": "Настройка цвета в соответствии с отображением на настоящем GBA.",
         "Comments": ""
     },
     {
@@ -249,7 +249,7 @@
         "Italian": "Simula gli effetti di ghosting LCD eseguendo una miscela 50:50 dei fotogrammi corrente e precedente. Necessario per il corretto funzionamento quando si gioca a giochi che sfruttano il ghosting LCD per effetti di trasparenza (F-Zero, la serie Boktai, ecc.).",
         "French": "",
         "Spanish": "Simula los efectos de efecto fantasma de la pantalla LCD realizando una mezcla 50:50 de los fotogramas actuales y anteriores. Necesario para el correcto funcionamiento cuando se juega a juegos que explotan el efecto fantasma de la pantalla LCD para efectos de transparencia (F-Zero, la serie Boktai, etc.).",
-        "Russian": "Имитация эффекта ореола ЖК-дисплея путём смешивания текущего и предыдущего кадров в соотношении 50:50. Требуется для корректного отображения игр, использующих ореол ЖК-дисплея для создания эффекта прозрачности (F-Zero, серия Boktai и т.д.).",
+        "Russian": "Имитация эффекта ореола ЖК-дисплея путём смешивания текущего и предыдущего кадров в соотношении 50:50. Необходимо для корректного отображения игр, использующих ореол ЖК-дисплея для создания эффекта прозрачности (F-Zero, серия Boktai и т.д.).",
         "Comments": ""
     },
     {
@@ -271,7 +271,7 @@
         "Italian": "Scegli il formato dei dati utilizzato per i file di salvataggio delle cartucce. 'gpSP' può essere utilizzato per la compatibilità con la versione autonoma di gpSP. 'libretro' offre una migliore integrazione con il frontend.",
         "French": "",
         "Spanish": "Elija el formato de datos utilizado para los archivos de almacenamiento de cartuchos. 'gpSP' se puede utilizar para la compatibilidad con la versión independiente de gpSP. 'libretro' proporciona una mejor integración con la interfaz.",
-        "Russian": "Формат данных, который будет использоваться для файлов, используемых для сохранений. Вариант [gpSP] можно использовать для совместимости с автономной версией gpSP. Вариант [libretro] обеспечивает лучшую интеграцию с пользовательским интерфейсом.",
+        "Russian": "Формат данных, который будет использоваться для файлов сохранений. Режим [gpSP] совместим с автономной версией gpSP. Режим [libretro] обеспечивает лучшую интеграцию с пользовательским интерфейсом.",
         "Comments": ""
     },
     {
@@ -359,7 +359,7 @@
         "Italian": "Specifica da quale regione proviene il sistema. 'PAL' è 50hz, 'NTSC' è 60hz. I giochi funzioneranno più velocemente o più lentamente del normale se viene selezionata la regione errata.",
         "French": "",
         "Spanish": "Especifique la región de la que procede el sistema. 'PAL' es de 50hz, 'NTSC' es de 60hz. Los juegos se ejecutarán más rápido o más lento de lo normal si se selecciona la región incorrecta.",
-        "Russian": "Укажите регион консоли. [PAL] — это 50 Гц, а [NTSC] — это 60 Гц. Если выбран неправильный регион, то игра будет работать быстрее или медленнее, чем было задумано изначально.",
+        "Russian": "Задаёт регион консоли. [PAL] — это 50 Гц, а [NTSC] — это 60 Гц. Если выбран неправильный регион, то игра будет работать быстрее или медленнее, чем было задумано изначально.",
         "Comments": ""
     },
     {
@@ -425,7 +425,7 @@
         "Italian": "Molti giochi per SNES soffrivano di rallentamenti a causa della debole CPU principale. Questa opzione aiuta a mitigare ciò al costo di possibili bug. COMPATIBILE: riduce i rallentamenti ma mantiene la compatibilità con i giochi il più possibile. MASSIMO: riduce i rallentamenti il più possibile ma romperà più giochi.",
         "French": "",
         "Spanish": "Muchos juegos para SNES sufrieron una ralentización debido a la debilidad de la CPU principal. Esta opción ayuda a aliviar eso a costa de posibles errores. COMPATIBLE: Reduce la ralentización pero mantén la mayor compatibilidad posible con el juego. MAX: Reduce la ralentización tanto como sea posible, pero romperá más juegos.",
-        "Russian": "Многие игры для SNES страдали от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, но сохраняет совместимость с играми, насколько это возможно. [Max] — максимально снижает замедление, но при этом значительно нарушает игровой процесс. Требуется перезапуск.",
+        "Russian": "Многие игры для SNES страдают от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, но сохраняет совместимость с играми, насколько это возможно. [Max] — максимально снижает замедление, но при этом значительно нарушает игровой процесс. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -513,7 +513,7 @@
         "Italian": "Seleziona la tavolozza utilizzata per colorare i giochi Game Boy quando 'Colorazione GB' è impostata su 'Interno', o quando 'Colorazione GB' è impostata su 'Automatico' e il gioco non ha una tavolozza SGB/GBC predefinita. Le tavolozze 'GB' imitano la visualizzazione dell'hardware Game Boy originale. Le tavolozze 'GBC' sono identiche ai preset integrati di Game Boy Color. Le tavolozze 'SGB' sono identiche ai preset integrati di Super Game Boy.",
         "French": "",
         "Spanish": "Selecciona la paleta utilizada para colorear los juegos de Game Boy cuando 'Coloración GB' está configurada en 'Interna', o cuando 'Coloración GB' está configurada en 'Automático' y el juego no tiene una paleta SGB/GBC predefinida. Las paletas 'GB' imitan la pantalla del hardware original de Game Boy. Las paletas 'GBC' son idénticas a los ajustes preestablecidos incorporados de Game Boy Color. Las paletas 'SGB' son idénticas a los ajustes preestablecidos incorporados de la Super Game Boy.",
-        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра 'Колоризация GB' установлено значение [Встроенный], или если для параметра 'Колоризация GB' установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение оригинального Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
+        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра “Колоризация GB” установлено значение [Встроенный], или если для параметра “Колоризация GB” установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение оригинального Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
         "Comments": ""
     },
     {
@@ -865,7 +865,7 @@
         "Italian": "Abilita l'emulazione di una cartuccia add-on Game Genie, consentendo l'inserimento di codici cheat all'avvio dei giochi. Il file ROM di Game Genie 'gamegenie.nes' deve essere presente nella directory di sistema del frontend. Non si applica ai contenuti FDS o arcade.",
         "French": "",
         "Spanish": "Habilita la emulación del cartucho de expansión Game Genie para permitir ingresar códigos de trampa al iniciar el juego. El archivo ROM de Game Genie \"gamegenie.nes\" debe existir en el directorio del sistema del frontend. No se aplica a contenido de FDS o arcade.",
-        "Russian": "Имитация устройства Game Genie, позволяющего вводить чит-коды при запуске игр. Файл ПЗУ Game Genie 'gamegenie.nes' должен находиться в системном каталоге пользовательского интерфейса. Не применимо к FDS или аркадному контенту.",
+        "Russian": "Имитация устройства Game Genie, позволяющего вводить чит-коды при запуске игр. Файл ПЗУ Game Genie (gamegenie.nes) должен находиться в системном каталоге пользовательского интерфейса. Не применимо к FDS или аркадному контенту.",
         "Comments": ""
     },
     {
@@ -1074,7 +1074,7 @@
         "Italian": "Scegli tra tavolozze pre-generate, una tavolozza personalizzata 64x3 da file o formato raw (deve utilizzare uno shader nes-decoder).",
         "French": "",
         "Spanish": "Elija entre paletas pregeneradas, una paleta personalizada de 64x3 de formato de archivo o sin procesar (necesita usar un sombreador nes-decoder).",
-        "Russian": "Выбор из предварительно сгенерированных палитр, пользовательских палитр 64x3 из файла или из формата raw (требуется шейдер nes-decoder).",
+        "Russian": "Выбор из предварительно сгенерированных палитр, пользовательских палитр 64x3 из файла или из формата raw (необходим шейдер nes-decoder).",
         "Comments": ""
     },
     {
@@ -1096,7 +1096,7 @@
         "Italian": "I filtri NTSC di Blargg sono utilizzati per replicare i segnali RF, composito, S-Video e RGB.",
         "French": "",
         "Spanish": "Los filtros NTSC de Blargg se utilizan para replicar señales de cable RF, Compuesto, S-Video y RGB.",
-        "Russian": "Фильтры NTSC от Blargg используются для имитации радиочастотных, композитных, S-Video и RGB кабельных сигналов.",
+        "Russian": "Фильтры NTSC от Blargg используются для имитации радиочастотных (RF), композитных, S-Video и RGB кабельных сигналов.",
         "Comments": ""
     },
     {
@@ -3208,7 +3208,7 @@
         "Italian": "Applica un filtro video per imitare vari segnali TV NTSC.",
         "French": "",
         "Spanish": "Aplique un filtro de vídeo para imitar varias señales de TV NTSC.",
-        "Russian": "Применить видеофильтр для имитации различных телевизионных сигналов NTSC.",
+        "Russian": "Видеофильтр для имитации различных телевизионных сигналов NTSC.",
         "Comments": ""
     },
     {
@@ -3219,7 +3219,7 @@
         "Italian": "Monocromatico",
         "French": "",
         "Spanish": "Monocromatico",
-        "Russian": "Монохромный",
+        "Russian": "Чёрно-белое изображение",
         "Comments": ""
     },
     {
@@ -3230,7 +3230,7 @@
         "Italian": "Composito",
         "French": "",
         "Spanish": "Compuesto",
-        "Russian": "Композит",
+        "Russian": "Композитный видеосигнал",
         "Comments": ""
     },
     {
@@ -3241,7 +3241,7 @@
         "Italian": "S-Video",
         "French": "",
         "Spanish": "S-Video",
-        "Russian": "S-Video",
+        "Russian": "Сигнал S-Video",
         "Comments": ""
     },
     {
@@ -3263,7 +3263,7 @@
         "Italian": "Scegli le proporzioni preferite per il contenuto. Questo si applica solo quando le proporzioni di RetroArch sono impostate su 'Fornite dal core' nelle impostazioni video.",
         "French": "",
         "Spanish": "Elija la relación de aspecto de contenido preferida. Esto solo se aplicará cuando la relación de aspecto de RetroArch esté configurada como 'Core provided' en la configuración de video.",
-        "Russian": "Предпочтительное соотношение сторон экрана. Эта настройка будет применяться, если для параметра 'Соотношение сторон' в настройках видео установлено значение [Задаётся ядром].",
+        "Russian": "Предпочтительное соотношение сторон экрана. Эта настройка будет применяться, если для параметра “Соотношение сторон” в настройках изображения установлено значение [Задаётся ядром].",
         "Comments": ""
     },
     {
@@ -3307,7 +3307,7 @@
         "Italian": "Quando si esegue contenuto Sega CD/Mega-CD, specifica se condividere una singola cartuccia di backup RAM per tutti i giochi (Per-Cartuccia) o creare una cartuccia di backup RAM separata per ogni gioco (Per-Gioco).",
         "French": "",
         "Spanish": "Al ejecutar contenido de Sega CD/Mega-CD, especifica si se debe compartir un único cartucho de memoria RAM de copia de seguridad para todos los juegos (por cartucho) o si se debe crear un cartucho de memoria RAM de copia de seguridad independiente para cada juego (por juego).",
-        "Russian": "Следует ли использовать один картридж CD Backup RAM для всех игр (На один картридж), или для каждой игры будет создан отдельный картридж CD Backup RAM (Каждая игра отдельно).",
+        "Russian": "Следует ли использовать один картридж CD Backup RAM для всех игр — режим [На один картридж], или для каждой игры будет создан отдельный картридж CD Backup RAM — режим [Каждая игра отдельно].",
         "Comments": ""
     },
     {
@@ -3329,7 +3329,7 @@
         "Italian": "Imposta la dimensione della cartuccia di backup RAM quando si esegue contenuto Sega CD/Mega-CD. Utile quando si imposta la cartuccia di backup RAM su Per-Gioco per evitare dimensioni di cartuccia più grandi multiple.",
         "French": "",
         "Spanish": "Al ejecutar contenido de Sega CD/Mega-CD, configure el tamaño del cartucho de RAM de respaldo. Es útil configurar el cartucho de RAM de respaldo por juego para evitar múltiples tamaños de cartuchos grandes.",
-        "Russian": "Размер картриджа CD Backup RAM. Полезно при выборе отдельного картриджа CD Backup RAM для каждой игры (Каждая игра отдельно), чтобы избежать появления множества картриджей большего размера.",
+        "Russian": "Размер картриджа CD Backup RAM. Полезно при выборе отдельного картриджа CD Backup RAM для каждой игры — режим [Каждая игра отдельно], чтобы избежать появления множества картриджей большего размера.",
         "Comments": ""
     },
     {
@@ -3351,7 +3351,7 @@
         "Italian": "Simula la latenza originale dell'hardware CD quando si avvia una lettura o si cerca una posizione specifica sul disco caricato. Questo è richiesto da alcuni giochi CD che si bloccano se i dati CD sono disponibili troppo presto e risolve anche i problemi di desincronizzazione dell'audio CD in alcuni giochi. Disabilitare questo può essere utile con i giochi MSU-MD in quanto rende i loop delle tracce audio CD più fluidi.",
         "French": "",
         "Spanish": "Cuando se inicia la carga o se busca en un lugar específico en el disco cargado, se simula la latencia del hardware original de CD. Esto es necesario en algunos juegos de CD que se bloquean cuando los datos del CD están disponibles de inmediato, y también corrige problemas de desincronización de audio de CD en algunos juegos. Deshabilitar esto hace que los bucles de las pistas de audio de CD sean más fluidos, lo que resulta útil en juegos de MSU-MD.",
-        "Russian": "Имитация аппаратной задержки CD при инициировании чтения или поиска определённого места на загруженном диске. Требуется для некоторых игр на CD-дисках, которые вылетают, если данные с диска становятся доступны слишком рано, а также устраняет проблемы рассинхронизации звука в некоторых играх. Отключение может быть полезно в играх MSU-MD, так как делает зацикливание звуковых дорожек CD более плавным.",
+        "Russian": "Имитация аппаратной задержки CD-привода при инициировании чтения или поиска определённого места на загруженном CD-диске. Необходима для некоторых игр, которые могут вылетать, если данные с диска становятся доступны слишком рано. Это также помогает устранить проблемы рассинхронизации звука в ряде игр. Отключение может быть полезно в играх MSU-MD, так как способствует более плавному зацикливанию звуковых дорожек CD.",
         "Comments": ""
     },
     {
@@ -3373,7 +3373,7 @@
         "Italian": "Carica l'immagine CD in memoria all'avvio. Supportato solo CHD. Riavvio richiesto.",
         "French": "",
         "Spanish": "Al iniciar, carga la imagen del CD en la memoria. Solo se admite CHD. (Requiere Reiniciar)",
-        "Russian": "Загружать образ CD-диска в память при запуске. Поддерживается только формат CHD. Требуется перезапуск.",
+        "Russian": "Загружать образ CD-диска в память при запуске. Поддерживается только формат CHD. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -3384,7 +3384,7 @@
         "Italian": "Mostra impostazioni avanzate del volume audio (Riapri menu)",
         "French": "",
         "Spanish": "Muestre la configuración de volumen de audio detallada (abra el menú nuevamente)",
-        "Russian": "Показать дополнительные настройки громкости звука (повторное открытие меню)",
+        "Russian": "Показать дополнительные настройки громкости звука (потребуется повторное открытие меню)",
         "Comments": ""
     },
     {
@@ -4165,7 +4165,7 @@
         "Italian": "La tecnologia Lock-On è una funzionalità di Mega Drive/Genesis che consentiva a un gioco più vecchio di connettersi alla porta pass-through di una cartuccia speciale per un gameplay esteso o modificato. Questa opzione specifica quale tipo di cartuccia speciale 'lock-on' emulare. Un file bios corrispondente deve essere presente nella directory di sistema di RetroArch.",
         "French": "",
         "Spanish": "La tecnología Lock-On es una característica de Mega Drive/Genesis que permitía que un juego antiguo se conectara al puerto de paso de un cartucho especial para un juego extendido o alterado. Esta opción especifica qué tipo de cartucho especial de \"bloqueo\" se va a emular. Un archivo de BIOS correspondiente debe estar presente en el directorio del sistema de RetroArch.",
-        "Russian": "«Lock-On» — технология Mega Drive/Genesis, которая позволяла более старым играм подключаться к сквозному порту специального картриджа для расширения или изменения игрового процесса. Эта опция определяет, какой тип специального «lock-on» картриджа следует имитировать. Соответствующий BIOS-файл должен присутствовать в системном каталоге интерфейса.",
+        "Russian": "«Lock-On» — технология Mega Drive/Genesis, которая позволяла более старым играм подключаться к сквозному порту специального картриджа для расширения или изменения игрового процесса. Эта настройка определяет, какой тип специального «lock-on» картриджа следует имитировать. Соответствующий файл BIOS должен присутствовать в системном каталоге интерфейса.",
         "Comments": ""
     },
     {
@@ -4209,7 +4209,7 @@
         "Italian": "Rimuove il limite hardware originale di sprite per linea di scansione. Questo riduce lo sfarfallio ma può causare glitch visivi, poiché alcuni giochi sfruttano il limite hardware per generare effetti speciali.",
         "French": "",
         "Spanish": "Elimina el límite de hardware original de sprite por línea de exploración. Esto reduce el parpadeo, pero puede causar fallos visuales, ya que algunos juegos explotan el límite del hardware para generar efectos especiales.",
-        "Russian": "Эта опция снимает исходное аппаратное ограничение на количество спрайтов, которые могут быть отображены на одной строке развёртки, тем самым уменьшая мерцание. Однако некоторые игры могут полагаться на это ограничение для корректного отображения спецэффектов.",
+        "Russian": "Снять исходное аппаратное ограничение на количество спрайтов, которые могут быть отображены на одной строке развёртки, тем самым уменьшая мерцание. Однако некоторые игры могут полагаться на это ограничение для корректного отображения спецэффектов.",
         "Comments": ""
     },
     {
@@ -4231,7 +4231,7 @@
         "Italian": "Abilita questo per visualizzare le regioni di overscan nella parte superiore/inferiore e/o sinistra/destra dello schermo. Queste aree sarebbero normalmente nascoste dalla cornice attorno al bordo di un televisore a definizione standard.",
         "French": "",
         "Spanish": "Habilite esta opción para mostrar las regiones de sobreescaneo en la parte superior/inferior y/o izquierda/derecha de la pantalla. Normalmente, estos estarían ocultos por el bisel alrededor del borde de un televisor de definición estándar.",
-        "Russian": "Включите эту опцию, чтобы отобразить области избыточного изображения в верхней/нижней и/или левой/правой частях экрана. На телевизорах стандартной чёткости они обычно скрыты рамкой.",
+        "Russian": "Отображать области избыточного изображения в верхней/нижней и/или левой/правой частях экрана. На телевизорах стандартной чёткости эти области обычно скрыты рамкой.",
         "Comments": ""
     },
     {
@@ -4275,7 +4275,7 @@
         "Italian": "Specifica da quale regione proviene il sistema. Per le console diverse da Game Gear, 'PAL' è 50 Hz, mentre 'NTSC' è 60 Hz. I giochi potrebbero funzionare più velocemente o più lentamente del normale se viene selezionata la regione errata.",
         "French": "",
         "Spanish": "Especifica la región de la que procede el sistema. Para consolas que no sean Game Gear, 'PAL' es de 50 Hz, mientras que 'NTSC' es de 60 Hz. Los juegos pueden ejecutarse más rápido o más lento de lo normal si se selecciona la región incorrecta.",
-        "Russian": "Укажите регион консоли. Для консолей, отличных от Game Gear, [PAL] — это 50 Гц, а [NTSC] — это 60 Гц. Игры могут работать быстрее или медленнее обычного, если выбран неправильный регион.",
+        "Russian": "Задаёт регион консоли. Для консолей, отличных от Game Gear, [PAL] — это 50 Гц, а [NTSC] — это 60 Гц. Игры могут работать быстрее или медленнее обычного, если выбран неправильный регион.",
         "Comments": ""
     },
     {
@@ -4319,7 +4319,7 @@
         "Italian": "Seleziona la riproduzione audio in stereo o mono.",
         "French": "",
         "Spanish": "Seleccione la reproducción de audio en estéreo o mono.",
-        "Russian": "Выберите, воспроизводить ли звук в стерео или моно режиме.",
+        "Russian": "Воспроизводить звук в стерео или моно режиме.",
         "Comments": ""
     },
     {
@@ -4341,7 +4341,7 @@
         "Italian": "Quando si esegue contenuti Sega CD/Mega-CD, specifica se condividere un unico file di salvataggio tra tutti i giochi di una specifica regione (Per-BIOS) o creare un file di salvataggio separato per ogni gioco (Per-Game). Nota che il Sega CD/Mega-CD ha una memoria interna limitata, sufficiente solo per un numero ristretto di titoli. Per evitare di esaurire lo spazio, si consiglia l'impostazione 'Per-Game'.",
         "French": "",
         "Spanish": "Al ejecutar contenido de Sega CD/Mega-CD, especifique si desea compartir un único archivo de guardado entre todos los juegos de una región específica (por BIOS) o crear un archivo de guardado independiente para cada juego (por juego). Tenga en cuenta que el Sega CD / Mega-CD tiene una memoria interna limitada, que solo es suficiente para un pequeño número de títulos. Para evitar quedarse sin espacio, se recomienda la configuración 'Por juego'.",
-        "Russian": "Следует ли использовать один файл сохранения для всех игр определённого региона [Per-BIOS] или создавать отдельный файл сохранения для каждой игры (Каждая игра отдельно). Следует отметить, что внутреннее пространство памяти Sega CD/Mega-CD весьма ограничено и может хранить лишь небольшое количество сохранений. Чтобы избежать нехватки места для сохранения, рекомендуется использовать значение [Каждая игра отдельно].",
+        "Russian": "Следует ли использовать один файл сохранения для всех игр определённого региона — режим [Per-BIOS] или создавать отдельный файл сохранения для каждой игры — режим [Каждая игра отдельно]. Следует отметить, что внутреннее пространство памяти Sega CD/Mega-CD весьма ограничено и может хранить лишь небольшое количество сохранений. Чтобы избежать нехватки места для сохранения, рекомендуется использовать режим [Каждая игра отдельно].",
         "Comments": ""
     },
     {
@@ -4363,7 +4363,7 @@
         "Italian": "Esegue il contenuto caricato con una console emulata specifica. 'Auto' selezionerà il sistema più appropriato per il gioco corrente.",
         "French": "",
         "Spanish": "Ejecuta contenido cargado con una consola emulada específica. 'Auto' seleccionará el sistema más apropiado para el juego actual.",
-        "Russian": "Запускать загруженный контент на определённой эмулируемой консоли. Режим [Авто] выберет наиболее подходящую систему для текущей игры.",
+        "Russian": "Запускать контент на определённой эмулируемой консоли. Режим [Автоматически] выберет наиболее подходящую систему для текущей игры.",
         "Comments": ""
     },
     {
@@ -4561,7 +4561,7 @@
         "Italian": "Rimuove il limite hardware originale degli sprite per linea di scansione. Alcuni giochi potrebbero fare affidamento sul limite hardware per il rendering corretto (ad esempio, nascondendo alcuni sprite).",
         "French": "",
         "Spanish": "Elimina el límite de hardware original de sprites por línea de exploración. Algunos juegos pueden depender del límite de hardware para renderizarse correctamente (por ejemplo, ocultar algunos sprites).",
-        "Russian": "Эта опция снимает исходное аппаратное ограничение на количество спрайтов, которые могут быть отображены на одной строке развёртки, тем самым уменьшая мерцание и улучшая визуальные характеристики. Однако некоторые игры могут полагаться на это ограничение для корректного отображения изображения (например, чтобы скрыть определённые спрайты).",
+        "Russian": "Снять исходное аппаратное ограничение на количество спрайтов, которые могут быть отображены на одной строке развёртки, тем самым уменьшая мерцание и улучшая визуальные характеристики. Однако некоторые игры могут полагаться на это ограничение для корректного отображения изображения (например, чтобы скрыть определённые спрайты).",
         "Comments": ""
     },
     {
@@ -4913,7 +4913,7 @@
         "Italian": "Inverte la logica del trigger quando si utilizza un Zapper. Disabilitandolo si ripristina il comportamento originale dell'hardware.",
         "French": "",
         "Spanish": "Invierte la lógica del activador cuando se usa un Zapper. Al deshabilitarlo, se restaura el comportamiento original del hardware.",
-        "Russian": "Инвертирует логику срабатывания светового пистолета. Если эта опция отключена, логика срабатывания будет соответствовать исходному поведению.",
+        "Russian": "Инвертирует логику срабатывания светового пистолета. Если эта настройка отключена, логика срабатывания будет соответствовать исходному поведению оборудования.",
         "Comments": ""
     },
     {
@@ -4935,7 +4935,7 @@
         "Italian": "Inverte la logica del sensore quando si utilizza un Zapper (solo in modalità Light gun Sequential Targets). Disabilitandolo si ripristina il comportamento originale dell'hardware NES/FC.",
         "French": "",
         "Spanish": "Invierte la lógica del sensor cuando se usa un Zapper (solo en el modo de objetivos secuenciales de pistola ligera). Al desactivarlo, se restaura el comportamiento original del hardware NES/FC.",
-        "Russian": "Изменяет логику работы датчика светового пистолета (только в режиме Sequential Target Light Gun). Если эта опция отключена, логика работы датчиков будет соответствовать исходному поведению оборудования NES/FC.",
+        "Russian": "Изменяет логику работы датчика светового пистолета (только в режиме Sequential Target Light Gun). Если эта настройка отключена, логика работы датчиков будет соответствовать исходному поведению оборудования NES/FC.",
         "Comments": ""
     },
     {
@@ -4979,7 +4979,7 @@
         "Italian": "Casuale",
         "French": "",
         "Spanish": "aleatorio",
-        "Russian": "Случайным образом",
+        "Russian": "Случайные значения",
         "Comments": ""
     },
     {
@@ -5089,7 +5089,7 @@
         "Italian": "Salta i fotogrammi per evitare l'under-run del buffer audio (crepitio). Migliora le prestazioni a scapito della fluidità visiva. 'Auto' salta i fotogrammi quando consigliato dal frontend. 'Manuale' utilizza l'impostazione 'Soglia di Salto Fotogrammi (%)'.",
         "French": "",
         "Spanish": "Omita fotogramas para evitar que el búfer de audio se desborde (crepite). Mejorar el rendimiento a expensas de la fluidez visual. 'Auto' salta fotogramas cuando lo recomienda la interfaz. 'Manual' utiliza el ajuste 'Umbral de salto de fotogramas (%)'.",
-        "Russian": "Пропускать кадры, чтобы избежать переполнения аудиобуфера (потрескиваний). Улучшает производительность за счёт визуальной плавности. [Автоматически] — пропускает кадры по указанию пользовательского интерфейса. [Вручную] — использует значение настройки 'Порог пропуска кадров (%)'.",
+        "Russian": "Пропускать кадры, чтобы избежать переполнения аудиобуфера (потрескиваний). Улучшает производительность за счёт визуальной плавности. [Автоматически] — пропускает кадры по указанию пользовательского интерфейса. [Вручную] — использует значение параметра “Порог пропуска кадров (%)”.",
         "Comments": ""
     },
     {
@@ -5111,7 +5111,7 @@
         "Italian": "Overclock della CPU SNES. Potrebbe causare il crash dei giochi! Usa 'AutoFastROM' per tempi di caricamento più brevi, 'Basso' per la maggior parte dei giochi che mostrano rallentamenti e 'Alto' solo se strettamente necessario.",
         "French": "",
         "Spanish": "Overclocking de CPU SNES. ¡Puede hacer que los juegos se bloqueen! Use 'AutoFastROM' para tiempos de carga más cortos, 'Bajo' para la mayoría de los juegos que muestran ralentizaciones y 'Alto' solo si es absolutamente necesario.",
-        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Используйте [AutoFastROM] для уменьшения времени загрузки, [Слабый] для большинства игр, в которых наблюдается замедление, и [Значительный] только в случае крайней необходимости. Требуется перезапуск.",
+        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Режим [AutoFastROM] подойдёт для сокращения времени запуска, [Слабый] будет эффективен для большинства игр, в которых наблюдается замедление, а [Значительный] следует применять только в особых случаях. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -5166,7 +5166,7 @@
         "Italian": "Overclock o underclock del chip SuperFX. Questo può migliorare il framerate e la giocabilità dei giochi che utilizzano SuperFX.",
         "French": "",
         "Spanish": "Overclocking o underclocking del chip SuperFX. Esto puede mejorar la velocidad de fotogramas y la jugabilidad de los juegos que usan SuperFX.",
-        "Russian": "Регулировка повышения или понижения тактовой частоты для чипов SuperFX. Может повысить частоту кадров и плавность работы игр, использующих SuperFX.",
+        "Russian": "Регулировка тактовой частоты сопроцессоров SuperFX. Может повысить частоту кадров и плавность работы игр, использующих SuperFX.",
         "Comments": ""
     },
     {
@@ -5353,7 +5353,7 @@
         "Italian": "Specifica quale algoritmo utilizzare per il ricampionamento dell'audio generato (la frequenza audio del Game Boy è limitata solo dalla velocità di scrittura della CPU, quindi le frequenze 'native' sono impraticabili sui dispositivi audio moderni e devono essere sottocampionate). 'Sinc' produce la qualità più alta. 'Cosine' migliora le prestazioni su hardware di fascia bassa.",
         "French": "",
         "Spanish": "Especifica qué algoritmo usar para remuestrear el audio generado (la frecuencia de audio de la Game Boy solo está limitada por la velocidad de escritura de la CPU, por lo que las frecuencias \"nativas\" no son prácticas en los dispositivos de audio modernos y deben reducirse). 'Sinc' produce la más alta calidad. 'Coseno' mejora el rendimiento en hardware de gama baja.",
-        "Russian": "Алгоритм, который будет использоваться при передискретизации сгенерированного звука (частота дискретизация звука Game Boy ограничена только скоростью записи его процессора, поэтому «родные» частоты непрактичны для современного звукового оборудования и должны быть понижены). [Sinc] — обеспечивает наивысшее качество. [Cosine] — повышает производительность на маломощном оборудовании.",
+        "Russian": "Метод, который будет использоваться при передискретизации сгенерированного звука (частота дискретизация звука Game Boy ограничена только скоростью записи его процессора, поэтому «родные» частоты непрактичны для современного звукового оборудования и должны быть понижены). [Sinc] — обеспечивает наивысшее качество. [Cosine] — повышает производительность на маломощном оборудовании.",
         "Comments": ""
     },
     {
@@ -5386,7 +5386,7 @@
         "Italian": "Abilita la colorazione dei giochi Game Boy. 'Auto' seleziona la palette 'migliore' (più colorata/appropriata). 'GBC' seleziona la palette specifica per Game Boy Color se definita, altrimenti 'GBC - Dark Green'. 'SGB' seleziona la palette specifica per Super Game Boy se definita, altrimenti 'SGB - 1A'. 'Interno' utilizza l'opzione 'Palette Interna' del core. 'Personalizzato' carica una palette creata dall'utente dalla directory di sistema.",
         "French": "",
         "Spanish": "Habilite el colorear de juegos de Game Boy. 'Auto' selecciona la 'mejor' paleta (más colorida/apropiada). 'GBC' selecciona la paleta específica de Game Boy Color si está definida, de lo contrario, 'GBC - Verde oscuro'. 'SGB' selecciona la paleta específica para Super Game Boy si está definida, de lo contrario, 'SGB - 1A'. 'Interno' utiliza la opción 'Paleta interna' del núcleo. 'Personalizado' carga una paleta creada por el usuario desde el directorio del sistema.",
-        "Russian": "Обеспечивает колоризацию игр для Game Boy. [Автоматически] подбирает «лучшую» (наиболее красочную/подходящую) палитру. [GBC] выбирает палитру Game Boy Color для конкретной игры, если она определена, иначе 'GBC - Dark Green'. [SGB] выбирает палитру Super Game Boy для конкретной игры, если она определена, иначе 'SGB - 1A'. [Встроенный] использует значение параметра 'Встроенная палитра'. [Настраиваемый] загружает созданную пользователем палитру из системного каталога.",
+        "Russian": "Режим колоризации игр для Game Boy. [Автоматически] подбирает «лучшую» (наиболее красочную/подходящую) палитру. [GBC] выбирает палитру Game Boy Color для конкретной игры, если она определена, иначе 'GBC - Dark Green'. [SGB] выбирает палитру Super Game Boy для конкретной игры, если она определена, иначе 'SGB - 1A'. [Встроенный] использует значение параметра “Встроенная палитра”. [Настраиваемый] загружает созданную пользователем палитру из системного каталога.",
         "Comments": ""
     },
     {
@@ -5408,7 +5408,7 @@
         "Italian": "Seleziona la palette di colorazione interna quando 'Palette Interna' è impostata su 'TWB64 - Pack 1'.",
         "French": "",
         "Spanish": "Seleccione la paleta de colores interna cuando la 'Paleta interna' esté configurada en 'TWB64 - Pack 1'.",
-        "Russian": "Выбор внутренней палитры колоризации, если для параметра 'Встроенная палитра' установлено значение [TWB64 - Pack 1].",
+        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Встроенная палитра” установлено значение [TWB64 - Pack 1].",
         "Comments": ""
     },
     {
@@ -5419,7 +5419,7 @@
         "Italian": "Seleziona la palette di colorazione interna quando 'Palette Interna' è impostata su 'TWB64 - Pack 2'.",
         "French": "",
         "Spanish": "Seleccione la paleta de colores interna cuando la 'Paleta interna' esté configurada en 'TWB64 - Pack 2'.",
-        "Russian": "Выбор внутренней палитры колоризации, если для параметра 'Встроенная палитра' установлено значение [TWB64 - Pack 2].",
+        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Встроенная палитра” установлено значение [TWB64 - Pack 2].",
         "Comments": ""
     },
     {
@@ -5430,7 +5430,7 @@
         "Italian": "Regola i colori di output per corrispondere alla visualizzazione dell'hardware reale del Game Boy Color. 'Solo GBC' garantisce che la correzione venga applicata solo quando si gioca a giochi Game Boy Color o quando si utilizza una palette Game Boy Color per colorare un gioco Game Boy. 'Sempre' applica la correzione del colore a tutti i contenuti e produrrà risultati imprevisti/subottimali quando si utilizzano palette di colori interne 'GB' o 'SGB'.",
         "French": "",
         "Spanish": "Ajusta los colores de salida para que coincidan con la pantalla de hardware real de Game Boy Color. 'Solo GBC' garantiza que la corrección solo se aplique cuando se juegue a juegos de Game Boy Color o cuando se use una paleta de colores de Game Boy para colorear un juego de Game Boy. 'Siempre' aplica la corrección de color a todo el contenido y producirá resultados inesperados/subóptimos cuando se utilicen paletas de colores internas 'GB' o 'SGB'.",
-        "Russian": "Корректирует цвета вывода так, чтобы они соответствовали отображению на настоящем оборудовании Game Boy Color. [Только GBC] гарантирует, что коррекция будет применяться только при воспроизведении игр Game Boy Color или при использовании палитры Game Boy Color для колоризации игр Game Boy. [Всегда] применяет цветокоррекцию ко всему, но может привести к неожиданным или неоптимальным результатам при использовании внутренних палитр 'GB' или 'SGB'.",
+        "Russian": "Корректирует цвета вывода так, чтобы они соответствовали отображению на настоящем Game Boy Color. [Только GBC] гарантирует, что коррекция будет применяться только при воспроизведении игр Game Boy Color или при использовании палитры Game Boy Color для колоризации игр Game Boy. [Всегда] применяет цветокоррекцию ко всему, но может привести к неожиданным или неоптимальным результатам при использовании внутренних палитр 'GB' или 'SGB'.",
         "Comments": ""
     },
     {
@@ -5441,7 +5441,7 @@
         "Italian": "Specifica il metodo utilizzato per eseguire la correzione del colore. 'Accurato' produce un output quasi indistinguibile da un pannello LCD reale di Game Boy Color. 'Veloce' si limita a scurire i colori e ridurre la saturazione e può essere utilizzato su hardware di fascia bassa se il metodo 'Accurato' è troppo lento.",
         "French": "",
         "Spanish": "Especifica el método utilizado para realizar la corrección de color. 'Preciso' produce una salida que es casi indistinguible de un panel LCD a color real de Game Boy. 'Rápido' solo oscurece los colores y reduce la saturación y se puede usar en hardware de gama baja si el método 'Preciso' es demasiado lento.",
-        "Russian": "Определяет метод, с помощью которого выполняется цветокоррекция. [Точно] позволяет получить результат, практически неотличимый от ЖК-экрана настоящего Game Boy Color. [Быстро] просто уменьшает яркость и насыщенность цвета, и может использоваться если метод [Точно] работает слишком медленно.",
+        "Russian": "Метод, с помощью которого выполняется цветокоррекция. [Точно] позволяет получить результат, практически неотличимый от ЖК-экрана настоящего Game Boy Color. [Быстро] просто уменьшает яркость и насыщенность цвета, и может использоваться если метод [Точно] работает слишком медленно.",
         "Comments": ""
     },
     {
@@ -5452,7 +5452,7 @@
         "Italian": "Simula la risposta fisica del pannello LCD del Game Boy Color quando illuminato da diverse angolazioni. 'Centrale' rappresenta la riproduzione del colore standard. 'Sopra lo Schermo' aumenta la luminosità. 'Sotto lo Schermo' riduce la luminosità. Questa impostazione si applica solo quando 'Modalità di Correzione Colore' è impostata su 'Accurato'.",
         "French": "",
         "Spanish": "Simula la respuesta física del panel LCD de Game Boy Color cuando se ilumina desde diferentes ángulos. 'Medio' representa la reproducción estándar del color. 'Por encima de la pantalla' aumenta el brillo. 'Under Screen' reduce el brillo. Esta configuración solo se aplica cuando 'Modo de corrección de color' está configurado en 'Preciso'.",
-        "Russian": "Имитирует физическую реакцию ЖК-экрана Game Boy Color при освещении под разными углами. [По центру] означает стандартную цветопередачу. [Выше экрана] увеличивает яркость. [Ниже экрана] уменьшает яркость. Эта настройка применяется только в том случае, если для параметра 'Режим цветокоррекции' установлено значение [Точно].",
+        "Russian": "Имитирует физическую реакцию ЖК-экрана Game Boy Color при освещении под разными углами. [По центру] означает стандартную цветопередачу. [Выше экрана] увеличивает яркость. [Ниже экрана] уменьшает яркость. Эта настройка применяется только в том случае, если для параметра “Режим цветокоррекции” установлено значение [Точно].",
         "Comments": ""
     },
     {
@@ -5463,7 +5463,7 @@
         "Italian": "Simula gli effetti di ghosting LCD. 'Semplice' esegue un mix 50:50 dei fotogrammi corrente e precedente. 'LCD Ghosting' imita i tempi di risposta naturali dell'LCD combinando più fotogrammi bufferizzati. Il blending 'Semplice' è necessario quando si gioca a giochi che si affidano al ghosting LCD per effetti di trasparenza (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...).",
         "French": "",
         "Spanish": "Simula efectos de efecto fantasma de LCD. 'Simple' realiza una mezcla 50:50 de los fotogramas actuales y anteriores. 'LCD Ghosting' imita los tiempos de respuesta naturales de la pantalla LCD mediante la combinación de múltiples fotogramas con búfer. La mezcla \"simple\" es necesaria cuando se juega a juegos que dependen del efecto fantasma de la pantalla LCD para obtener efectos de transparencia (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...).",
-        "Russian": "Имитация эффекта ореола ЖК-дисплея. В режиме [Просто] происходит смешивание текущего и предыдущего кадров в соотношении 50:50. Режим [Ореол ЖК-дисплея] имитирует естественное время отклика ЖК-дисплея, комбинируя несколько буферизованных кадров. Режим [Просто] требуется для корректного отображения игр, использующих ореол ЖК-дисплея для создания эффекта прозрачности (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS и т.д.).",
+        "Russian": "Имитация эффекта ореола ЖК-дисплея. В режиме [Просто] происходит смешивание текущего и предыдущего кадров в соотношении 50:50. Режим [Ореол ЖК-дисплея] имитирует естественное время отклика ЖК-дисплея, комбинируя несколько буферизованных кадров. Режим [Просто] необходим для корректного отображения игр, использующих ореол ЖК-дисплея для создания эффекта прозрачности (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS и т.д.).",
         "Comments": ""
     },
     {

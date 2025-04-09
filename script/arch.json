@@ -262,5 +262,17 @@
         "Spanish": "Un videojuego de arcade es un juego de arcade que toma la entrada del jugador de sus controles, la procesa a través de componentes eléctricos o computarizados y muestra la salida a un monitor electrónico o pantalla similar. Todos los videojuegos de arcade funcionan con monedas o aceptan otros medios de pago, alojados en un gabinete de arcade y ubicados en salas de juegos junto con otros tipos de juegos de arcade. Hasta principios de la década de 2000, los videojuegos arcade eran el segmento más grande y tecnológicamente avanzado de la industria de los videojuegos.",
         "Russian": "Аркадная видеоигра — развлекательный автомат с самой видеоигрой и монетоприемником, который обычно устанавливается в общественных местах, таких как залы игровых автоматов. В аркадных видеоиграх часто очень короткие динамичные уровни, простые и интуитивно понятные схемы управления и быстро нарастающая сложность. Это связано с природой зала игровых автоматов, где игрок, по сути, арендует игру до тех пор, пока его игровое воплощение может оставаться в живых, или пока у игрока не закончатся жетоны для оплаты игры. Большинство аркадных игровых автоматов оснащены специализированными контроллерами — джойстиками, кнопками и трекболами, приспособленными к игровому процессу.",
         "Comments": ""
+    },
+    {
+        "No.": "23",
+        "Tag": "LANG_MANAGE_ICONS",
+        "English": "⇸ Manage icons",
+        "Chinese": "⇸ 管理图标",
+        "Japanese": "⇸ アイコンを管理",
+        "Italian": "⇸ Gestisci le icone",
+        "French": "⇸ Gérer les icônes",
+        "Spanish": "⇸ Administrar los iconos",
+        "Russian": "⇸ Управление значками",
+        "Comments": ""
     }
 ]

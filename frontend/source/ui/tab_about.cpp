@@ -120,7 +120,7 @@ void TabAbout::_InitTexts()
               "https://github.com/libretro/fbalpha2012",
               "https://github.com/libretro/mame2000-libretro",
               "https://github.com/libretro/mame2003-libretro",
-              "https://github.com/libretro/mame2003-plus-libretro)",
+              "https://github.com/libretro/mame2003-plus-libretro",
               "https://github.com/libretro/gpsp",
               "https://github.com/libretro/libretro-fceumm",
               "https://github.com/libretro/gambatte-libretro",
