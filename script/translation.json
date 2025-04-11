@@ -469,7 +469,7 @@
         "Italian": "interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенный",
+        "Russian": "Внутренний",
         "Comments": ""
     },
     {
@@ -502,7 +502,7 @@
         "Italian": "Tavolozza interna",
         "French": "",
         "Spanish": "Paleta interna",
-        "Russian": "Встроенная палитра",
+        "Russian": "Внутренняя палитра",
         "Comments": ""
     },
     {
@@ -513,7 +513,7 @@
         "Italian": "Seleziona la tavolozza utilizzata per colorare i giochi Game Boy quando 'Colorazione GB' è impostata su 'Interno', o quando 'Colorazione GB' è impostata su 'Automatico' e il gioco non ha una tavolozza SGB/GBC predefinita. Le tavolozze 'GB' imitano la visualizzazione dell'hardware Game Boy originale. Le tavolozze 'GBC' sono identiche ai preset integrati di Game Boy Color. Le tavolozze 'SGB' sono identiche ai preset integrati di Super Game Boy.",
         "French": "",
         "Spanish": "Selecciona la paleta utilizada para colorear los juegos de Game Boy cuando 'Coloración GB' está configurada en 'Interna', o cuando 'Coloración GB' está configurada en 'Automático' y el juego no tiene una paleta SGB/GBC predefinida. Las paletas 'GB' imitan la pantalla del hardware original de Game Boy. Las paletas 'GBC' son idénticas a los ajustes preestablecidos incorporados de Game Boy Color. Las paletas 'SGB' son idénticas a los ajustes preestablecidos incorporados de la Super Game Boy.",
-        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра “Колоризация GB” установлено значение [Встроенный], или если для параметра “Колоризация GB” установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение оригинального Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
+        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра “Колоризация GB” установлено значение [Внутренняя], или если для параметра “Колоризация GB” установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение оригинального Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
         "Comments": ""
     },
     {
@@ -1866,7 +1866,7 @@
         "Italian": "Tavolozza interna precedente",
         "French": "",
         "Spanish": "Paleta interna anterior",
-        "Russian": "Предыдущая встроенная цветовая палитра",
+        "Russian": "Предыдущая внутренняя цветовая палитра",
         "Comments": ""
     },
     {
@@ -1877,7 +1877,7 @@
         "Italian": "Tavolozza interna successiva",
         "French": "",
         "Spanish": "Paleta interna siguiente",
-        "Russian": "Следующая встроенная цветовая палитра",
+        "Russian": "Следующая внутренняя цветовая палитра",
         "Comments": ""
     },
     {
@@ -4121,7 +4121,7 @@
         "Italian": "Applica un filtro 'ghosting' per imitare le caratteristiche di visualizzazione dei pannelli LCD di Game Gear e Genesis Nomad.",
         "French": "",
         "Spanish": "Aplica un filtro de imagen \"fantasma\" para imitar las características de visualización de los paneles LCD de Game Gear y Genesis Nomad.",
-        "Russian": "Фильтр ореола ЖК-дисплея для имитации эффектов экранов Game Gear и Genesis Nomad.",
+        "Russian": "Фильтр ореола ЖК-дисплея для имитации эффектов ЖК-экранов Game Gear и Genesis Nomad.",
         "Comments": ""
     },
     {
@@ -5353,7 +5353,7 @@
         "Italian": "Specifica quale algoritmo utilizzare per il ricampionamento dell'audio generato (la frequenza audio del Game Boy è limitata solo dalla velocità di scrittura della CPU, quindi le frequenze 'native' sono impraticabili sui dispositivi audio moderni e devono essere sottocampionate). 'Sinc' produce la qualità più alta. 'Cosine' migliora le prestazioni su hardware di fascia bassa.",
         "French": "",
         "Spanish": "Especifica qué algoritmo usar para remuestrear el audio generado (la frecuencia de audio de la Game Boy solo está limitada por la velocidad de escritura de la CPU, por lo que las frecuencias \"nativas\" no son prácticas en los dispositivos de audio modernos y deben reducirse). 'Sinc' produce la más alta calidad. 'Coseno' mejora el rendimiento en hardware de gama baja.",
-        "Russian": "Метод, который будет использоваться при передискретизации сгенерированного звука (частота дискретизация звука Game Boy ограничена только скоростью записи его процессора, поэтому «родные» частоты непрактичны для современного звукового оборудования и должны быть понижены). [Sinc] — обеспечивает наивысшее качество. [Cosine] — повышает производительность на маломощном оборудовании.",
+        "Russian": "Алгоритм, который будет использоваться при передискретизации сгенерированного звука. Частота дискретизация звука Game Boy ограничена только скоростью записи его процессора, поэтому «родные» частоты непрактичны для современного звукового оборудования и должны быть понижены. [Sinc] — обеспечивает наивысшее качество. [Cosine] — повышает производительность на маломощном оборудовании.",
         "Comments": ""
     },
     {
@@ -5364,7 +5364,7 @@
         "Italian": "Abilita la riduzione della luminosità basata sulla luminosità. Può essere utilizzato per evitare abbagliamenti/affaticamento degli occhi quando si gioca con sfondi bianchi, pensati per essere visualizzati su un Game Boy Color senza retroilluminazione e che quindi possono apparire eccessivamente luminosi su schermi retroilluminati moderni.",
         "French": "",
         "Spanish": "Permite la reducción del brillo basada en el brillo. Se puede utilizar para evitar el deslumbramiento o la fatiga visual cuando se juega con fondos blancos, que están pensados para mostrarse en una Game Boy Color sin retroiluminación y, por lo tanto, pueden parecer demasiado brillantes en pantallas retroiluminadas modernas.",
-        "Russian": "Позволяет уменьшить яркость в зависимости от яркости изображения. Может использоваться для предотвращения бликов и напряжения глаз от белых фонов в играх. Эти фоны выглядят нормально при просмотре на устройстве Game Boy Color без подсветки, но могут показаться слишком яркими на современных экранах с подсветкой.",
+        "Russian": "Позволяет уменьшить яркость в зависимости от яркости изображения. Может использоваться для предотвращения бликов и напряжения глаз от белых фонов в играх. Предназначенные для просмотра на экране Game Boy Color без подсветки, они могут оказаться слишком яркими на современных экранах с подсветкой.",
         "Comments": ""
     },
     {
@@ -5386,7 +5386,7 @@
         "Italian": "Abilita la colorazione dei giochi Game Boy. 'Auto' seleziona la palette 'migliore' (più colorata/appropriata). 'GBC' seleziona la palette specifica per Game Boy Color se definita, altrimenti 'GBC - Dark Green'. 'SGB' seleziona la palette specifica per Super Game Boy se definita, altrimenti 'SGB - 1A'. 'Interno' utilizza l'opzione 'Palette Interna' del core. 'Personalizzato' carica una palette creata dall'utente dalla directory di sistema.",
         "French": "",
         "Spanish": "Habilite el colorear de juegos de Game Boy. 'Auto' selecciona la 'mejor' paleta (más colorida/apropiada). 'GBC' selecciona la paleta específica de Game Boy Color si está definida, de lo contrario, 'GBC - Verde oscuro'. 'SGB' selecciona la paleta específica para Super Game Boy si está definida, de lo contrario, 'SGB - 1A'. 'Interno' utiliza la opción 'Paleta interna' del núcleo. 'Personalizado' carga una paleta creada por el usuario desde el directorio del sistema.",
-        "Russian": "Режим колоризации игр для Game Boy. [Автоматически] подбирает «лучшую» (наиболее красочную/подходящую) палитру. [GBC] выбирает палитру Game Boy Color для конкретной игры, если она определена, иначе 'GBC - Dark Green'. [SGB] выбирает палитру Super Game Boy для конкретной игры, если она определена, иначе 'SGB - 1A'. [Встроенный] использует значение параметра “Встроенная палитра”. [Настраиваемый] загружает созданную пользователем палитру из системного каталога.",
+        "Russian": "Режим колоризации игр для Game Boy. [Автоматически] подбирает «лучшую» (наиболее красочную/подходящую) палитру. [GBC] выбирает палитру Game Boy Color для конкретной игры, если она определена, иначе 'GBC - Dark Green'. [SGB] выбирает палитру Super Game Boy для конкретной игры, если она определена, иначе 'SGB - 1A'. [Внутренняя] использует значение параметра “Внутренняя палитра”. [Настраиваемая] загружает созданную пользователем палитру из системного каталога.",
         "Comments": ""
     },
     {
@@ -5408,7 +5408,7 @@
         "Italian": "Seleziona la palette di colorazione interna quando 'Palette Interna' è impostata su 'TWB64 - Pack 1'.",
         "French": "",
         "Spanish": "Seleccione la paleta de colores interna cuando la 'Paleta interna' esté configurada en 'TWB64 - Pack 1'.",
-        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Встроенная палитра” установлено значение [TWB64 - Pack 1].",
+        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Внутренняя палитра” установлено значение [TWB64 - Pack 1].",
         "Comments": ""
     },
     {
@@ -5419,7 +5419,7 @@
         "Italian": "Seleziona la palette di colorazione interna quando 'Palette Interna' è impostata su 'TWB64 - Pack 2'.",
         "French": "",
         "Spanish": "Seleccione la paleta de colores interna cuando la 'Paleta interna' esté configurada en 'TWB64 - Pack 2'.",
-        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Встроенная палитра” установлено значение [TWB64 - Pack 2].",
+        "Russian": "Выбор внутренней палитры колоризации, если для параметра “Внутренняя палитра” установлено значение [TWB64 - Pack 2].",
         "Comments": ""
     },
     {
@@ -5496,7 +5496,7 @@
         "Italian": "Interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенная",
+        "Russian": "Внутренняя",
         "Comments": ""
     },
     {
