@@ -469,7 +469,7 @@
         "Italian": "interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенный SMALL",
+        "Russian": "Встроенный",
         "Comments": ""
     },
     {
@@ -480,7 +480,7 @@
         "Italian": "personalizzato",
         "French": "",
         "Spanish": "Personalizado",
-        "Russian": "Настраиваемый SMALL",
+        "Russian": "Настраиваемый",
         "Comments": ""
     },
     {
@@ -876,7 +876,7 @@
         "Italian": "Mostra opzioni di sistema avanzate",
         "French": "",
         "Spanish": "Mostrar opciones avanzadas del sistema",
-        "Russian": "Показывать дополнительные параметры системы",
+        "Russian": "Дополнительные параметры системы",
         "Comments": ""
     },
     {
@@ -887,7 +887,7 @@
         "Italian": "Mostra opzioni e modifiche avanzate del sistema.",
         "French": "",
         "Spanish": "Muestra opciones y ajustes avanzados del sistema.",
-        "Russian": "Показывать дополнительные параметры системы и твики",
+        "Russian": "Показывать дополнительные параметры системы и твики.",
         "Comments": ""
     },
     {
@@ -898,7 +898,7 @@
         "Italian": "Mostra opzioni audio avanzate",
         "French": "",
         "Spanish": "Mostrar opciones de sonido avanzadas",
-        "Russian": "Показывать дополнительные параметры настроек звука",
+        "Russian": "Дополнительные параметры настроек звука",
         "Comments": ""
     },
     {
@@ -909,7 +909,7 @@
         "Italian": "Mostra opzioni e modifiche audio avanzate.",
         "French": "",
         "Spanish": "Muestra opciones de sonido avanzadas y ajustes.",
-        "Russian": "Показывать дополнительные параметры настроек звука и твики",
+        "Russian": "Показывать дополнительные параметры настроек звука и твики.",
         "Comments": ""
     },
     {
@@ -964,7 +964,7 @@
         "Italian": "Rimuove 8 pixel di overscan da tutti i lati dello schermo.",
         "French": "",
         "Spanish": "Elimina el sobreescaneo de 8 píxeles de todos los lados de la pantalla.",
-        "Russian": "Обрезать вылеты развёртки по 8 пикселей с каждой стороны",
+        "Russian": "Обрезать вылеты развёртки по 8 пикселей с каждой стороны.",
         "Comments": ""
     },
     {
@@ -975,7 +975,7 @@
         "Italian": "Ritaglia l'overscan orizzontale sinistro",
         "French": "",
         "Spanish": "Recortar horizontal a la izquierda",
-        "Russian": "Обрезать левый горизонтальный вылет развёртки",
+        "Russian": "Обрезать левый вылет развёртки",
         "Comments": ""
     },
     {
@@ -997,7 +997,7 @@
         "Italian": "Ritaglia l'overscan orizzontale destro",
         "French": "",
         "Spanish": "Recortar sobrebarrido horizontal a la derecha",
-        "Russian": "Обрезать правый горизонтальный вылет развёртки",
+        "Russian": "Обрезать правый вылет развёртки",
         "Comments": ""
     },
     {
@@ -1019,7 +1019,7 @@
         "Italian": "Ritaglia l'overscan verticale superiore",
         "French": "",
         "Spanish": "Recorte vertical de sobrebarrido superior",
-        "Russian": "Обрезать верхний вертикальный вылет развёртки",
+        "Russian": "Обрезать верхний вылет развёртки",
         "Comments": ""
     },
     {
@@ -1041,7 +1041,7 @@
         "Italian": "Ritaglia l'overscan verticale inferiore",
         "French": "",
         "Spanish": "Recortar sobrebarrido inferior vertical",
-        "Russian": "Обрезать нижний вертикальный вылет развёртки",
+        "Russian": "Обрезать нижний вылет развёртки",
         "Comments": ""
     },
     {
@@ -1305,7 +1305,7 @@
         "Italian": "Abilita o disabilita l'uscita audio del generatore di rumore.",
         "French": "",
         "Spanish": "Habilite o deshabilite la salida de audio del generador de ruido.",
-        "Russian": "Включить или выключить аудиовыход генератора шума",
+        "Russian": "Включить или выключить аудиовыход генератора шума.",
         "Comments": ""
     },
     {
@@ -1327,7 +1327,7 @@
         "Italian": "Abilita o disabilita l'uscita audio del canale di modulazione delta.",
         "French": "",
         "Spanish": "Activa o desactiva la salida de audio del canal de modulación delta.",
-        "Russian": "Включить или выключить аудиовыход канала дельта-модуляции",
+        "Russian": "Включить или выключить аудиовыход канала дельта-модуляции.",
         "Comments": ""
     },
     {
@@ -1371,7 +1371,7 @@
         "Italian": "Frequenza di ripetizione dei pulsanti turbo in fotogrammi.",
         "French": "",
         "Spanish": "Frecuencia de repetición de los botones turbo en los fotogramas.",
-        "Russian": "Частота повтора нажатий кнопок Turbo в кадрах",
+        "Russian": "Частота повтора нажатий кнопок Turbo в кадрах.",
         "Comments": ""
     },
     {
@@ -4165,7 +4165,7 @@
         "Italian": "La tecnologia Lock-On è una funzionalità di Mega Drive/Genesis che consentiva a un gioco più vecchio di connettersi alla porta pass-through di una cartuccia speciale per un gameplay esteso o modificato. Questa opzione specifica quale tipo di cartuccia speciale 'lock-on' emulare. Un file bios corrispondente deve essere presente nella directory di sistema di RetroArch.",
         "French": "",
         "Spanish": "La tecnología Lock-On es una característica de Mega Drive/Genesis que permitía que un juego antiguo se conectara al puerto de paso de un cartucho especial para un juego extendido o alterado. Esta opción especifica qué tipo de cartucho especial de \"bloqueo\" se va a emular. Un archivo de BIOS correspondiente debe estar presente en el directorio del sistema de RetroArch.",
-        "Russian": "«Lock-On» — технология Mega Drive/Genesis, которая позволяла более старым играм подключаться к сквозному порту специального картриджа для расширения или изменения игрового процесса. Эта настройка определяет, какой тип специального «lock-on» картриджа следует имитировать. Соответствующий файл BIOS должен присутствовать в системном каталоге интерфейса.",
+        "Russian": "«Lock-On» — технология Mega Drive/Genesis, которая позволяет играм подключаться к сквозному порту специального картриджа для расширения или изменения игрового процесса. Эта настройка определяет, какой тип «lock-on» картриджа следует имитировать. Соответствующий файл BIOS должен присутствовать в системном каталоге интерфейса.",
         "Comments": ""
     },
     {
@@ -4297,7 +4297,7 @@
         "Italian": "La Modalità Interlacciata 2 consente al Mega Drive/Genesis di produrre un'immagine a doppia altezza (alta risoluzione) di 320x448 disegnando linee di scansione alternate ogni fotogramma (utilizzato in Sonic the Hedgehog 2 e nelle modalità multiplayer di Combat Cars). 'Doppio Campo' imita l'hardware originale, producendo un'immagine nitida con artefatti di sfarfallio/interlacciamento. 'Campo Singolo' applica un filtro di deinterlacciamento, che stabilizza l'immagine ma causa un leggero sfuocamento.",
         "French": "",
         "Spanish": "El modo entrelazado 2 permite a Mega Drive/Genesis producir una imagen de doble altura (alta resolución) de 320x448 dibujando líneas de escaneo alternas en cada fotograma (utilizado en los modos multijugador Sonic the Hedgehog 2 y Combat Cars). 'Double Field' imita el hardware original, produciendo una imagen nítida con artefactos de parpadeo/entrelazado. 'Campo único' aplica un filtro de desentrelazado, que estabiliza la imagen pero provoca un ligero desenfoque.",
-        "Russian": "Чересстрочный режим №2 позволяет Mega Drive/Genesis выводить изображение двойной высоты (320×448 для NTSC, 320x480 для PAL), отрисовывая чередующиеся линии развёртки в каждом кадре (эта возможность используется в многопользовательских режимах Sonic the Hedgehog 2 и Combat Cars). Режим [Double Field] точно имитирует оригинальное оборудование, демонстрируя чёткое изображение, но с мерцанием и артефактами чересстрочной развёртки. Режим [Single Field] применяет фильтр деинтерлейсинга, стабилизирующий изображение, но вызывающий лёгкое размытие.",
+        "Russian": "Чересстрочный режим 2 позволяет Mega Drive/Genesis выводить изображение двойной высоты (320×448 для NTSC, 320x480 для PAL), отрисовывая чередующиеся линии развёртки в каждом кадре (эта возможность используется в многопользовательских режимах Sonic the Hedgehog 2 и Combat Cars). Режим [Double Field] точно имитирует оригинальное оборудование, демонстрируя чёткое изображение, но с мерцанием и артефактами чересстрочной развёртки. Режим [Single Field] применяет фильтр деинтерлейсинга, стабилизирующий изображение, но вызывающий лёгкое размытие.",
         "Comments": ""
     },
     {
@@ -4847,7 +4847,7 @@
         "Italian": "Abilita o disabilita l'overclocking, che può ridurre i rallentamenti in alcuni giochi. Il metodo Postrender è più compatibile con tutti i giochi, Vblank è più efficace per giochi come Contra Force.",
         "French": "",
         "Spanish": "Habilita o deshabilita el overclocking, que puede reducir las ralentizaciones en algunos juegos. El método Postrender es más compatible con todos los juegos, Vblank es más efectivo para juegos como Contra Force.",
-        "Russian": "Включает или отключает разгон, что может уменьшить замедление в некоторых играх. Режим [Postrender] подходит для всех игр, а [Vblank] лучше работает в таких играх, как Contra Force.",
+        "Russian": "Включает или отключает разгон, что может уменьшить замедление в некоторых играх. Режим [Postrender] подходит для всех игр, а [VBlank] лучше работает в таких играх, как Contra Force.",
         "Comments": ""
     },
     {
@@ -4891,7 +4891,7 @@
         "Italian": "Mostra o nasconde il mirino sullo schermo quando si utilizza un Zapper.",
         "French": "",
         "Spanish": "Muestra u oculta el punto de mira en la pantalla cuando se usa un Zapper.",
-        "Russian": "Отображать перекрестие прицела светового пистолета при использовании устройства ввода Zapper",
+        "Russian": "Отображать перекрестие прицела светового пистолета при использовании устройства ввода Zapper.",
         "Comments": ""
     },
     {
@@ -4902,7 +4902,7 @@
         "Italian": "Inverti Segnale di Trigger Zapper",
         "French": "",
         "Spanish": "Señal de Zapper de disparo inverso",
-        "Russian": "Инвертировать сигнал срабатывания светового пистолета",
+        "Russian": "Инверсия сигнала срабатывания пистолета",
         "Comments": ""
     },
     {
@@ -4924,7 +4924,7 @@
         "Italian": "Inverti Segnale Sensore Zapper",
         "French": "",
         "Spanish": "Señal del sensor de zapper inverso",
-        "Russian": "Инвертировать сигнал датчика светового пистолета",
+        "Russian": "Инверсия сигнала датчика пистолета",
         "Comments": ""
     },
     {
@@ -4935,7 +4935,7 @@
         "Italian": "Inverte la logica del sensore quando si utilizza un Zapper (solo in modalità Light gun Sequential Targets). Disabilitandolo si ripristina il comportamento originale dell'hardware NES/FC.",
         "French": "",
         "Spanish": "Invierte la lógica del sensor cuando se usa un Zapper (solo en el modo de objetivos secuenciales de pistola ligera). Al desactivarlo, se restaura el comportamiento original del hardware NES/FC.",
-        "Russian": "Изменяет логику работы датчика светового пистолета (только в режиме Sequential Target Light Gun). Если эта настройка отключена, логика работы датчиков будет соответствовать исходному поведению оборудования NES/FC.",
+        "Russian": "Инвертирует логику работы датчика светового пистолета (только в режиме Sequential Target Light Gun). Если эта настройка отключена, логика работы датчиков будет соответствовать исходному поведению оборудования NES/FC.",
         "Comments": ""
     },
     {
@@ -5397,7 +5397,7 @@
         "Italian": "Specifica quale tipo di hardware emulare. Si consiglia 'Auto'. Selezionando 'GBA' si sbloccano funzionalità extra in alcuni giochi Game Boy Color 'GBA Enhanced' (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...).",
         "French": "",
         "Spanish": "Especifica el tipo de hardware que se va a emular. Se recomienda 'Auto'. Al seleccionar 'GBA' se desbloquean funciones adicionales en algunos juegos de Game Boy Color 'GBA Enhanced' (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...).",
-        "Russian": "Тип оборудования для эмуляции. Рекомендуется использовать [Автоматически]. При выборе [GBA] открываются дополнительные возможности в некоторых «GBA улучшенных» играх Game Boy Color (Shantae, Wendy: Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages и т.д.).",
+        "Russian": "Тип оборудования для эмуляции. Рекомендуется использовать режим [Автоматически]. При выборе [GBA] открываются дополнительные возможности в некоторых «GBA улучшенных» играх Game Boy Color (Shantae, Wendy: Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages и т.д.).",
         "Comments": ""
     },
     {
@@ -5496,7 +5496,7 @@
         "Italian": "Interno",
         "French": "",
         "Spanish": "Interno",
-        "Russian": "Встроенный BIG",
+        "Russian": "Встроенная",
         "Comments": ""
     },
     {
@@ -5507,7 +5507,7 @@
         "Italian": "Personalizzato",
         "French": "",
         "Spanish": "Personalizado",
-        "Russian": "Настраиваемый BIG",
+        "Russian": "Настраиваемая",
         "Comments": ""
     }
 ]
