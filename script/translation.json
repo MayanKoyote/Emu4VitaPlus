@@ -1602,7 +1602,7 @@
         "Italian": "Corsa",
         "French": "",
         "Spanish": "Correr",
-        "Russian": "Бег",
+        "Russian": "Run",
         "Comments": ""
     },
     {
@@ -2284,7 +2284,7 @@
         "Italian": "Reset console",
         "French": "",
         "Spanish": "Reiniciar consola",
-        "Russian": "Сброс консоли",
+        "Russian": "Reset консоли",
         "Comments": ""
     },
     {
@@ -2295,7 +2295,7 @@
         "Italian": "Selezione console",
         "French": "",
         "Spanish": "Selección de consola",
-        "Russian": "Кнопка Select",
+        "Russian": "Select консоли",
         "Comments": ""
     },
     {
@@ -2306,7 +2306,7 @@
         "Italian": "Pausa console",
         "French": "",
         "Spanish": "Pausa de la consola",
-        "Russian": "Пауза консоли",
+        "Russian": "Pause консоли",
         "Comments": ""
     },
     {
@@ -2361,7 +2361,7 @@
         "Italian": "Nero/Bianco",
         "French": "",
         "Spanish": "Negro/Blanco",
-        "Russian": "Чёрно-белый режим",
+        "Russian": "Black/White",
         "Comments": ""
     },
     {
