@@ -1195,7 +1195,7 @@
         "Italian": "Simula il suono dei famicloni che hanno i bit del ciclo di lavoro dei canali dell'onda quadra invertiti.",
         "French": "",
         "Spanish": "Simula el sonido de los famiclones que tienen los canales de onda de pulso bits de ciclo de trabajo invertidos.",
-        "Russian": "Имитировать звук фамиклонов, у которых перепутана скважность прямоугольных импульсных сигналов.",
+        "Russian": "Имитация звуку фамиклонов, у которых перепутана скважность прямоугольных импульсных сигналов.",
         "Comments": ""
     },
     {
@@ -1426,7 +1426,7 @@
         "Italian": "Seleziona",
         "French": "",
         "Spanish": "Select",
-        "Russian": "Select",
+        "Russian": "SELECT",
         "Comments": ""
     },
     {
@@ -1437,7 +1437,7 @@
         "Italian": "Start",
         "French": "",
         "Spanish": "Start",
-        "Russian": "Start",
+        "Russian": "START",
         "Comments": ""
     },
     {
@@ -1602,7 +1602,7 @@
         "Italian": "Corsa",
         "French": "",
         "Spanish": "Correr",
-        "Russian": "Run",
+        "Russian": "RUN",
         "Comments": ""
     },
     {
@@ -2130,7 +2130,7 @@
         "Italian": "Inizio pistola",
         "French": "",
         "Spanish": "Arma de arranque",
-        "Russian": "Start пистолета",
+        "Russian": "START пистолета",
         "Comments": ""
     },
     {
@@ -2262,7 +2262,7 @@
         "Italian": "Pulsante 1 Start",
         "French": "",
         "Spanish": "Botón 1 Inicio",
-        "Russian": "Кнопка 1 Start",
+        "Russian": "Кнопка 1 START",
         "Comments": ""
     },
     {
@@ -2273,7 +2273,7 @@
         "Italian": "Pulsante pausa",
         "French": "",
         "Spanish": "Pausa de botón",
-        "Russian": "Кнопка Pause",
+        "Russian": "Кнопка PAUSE",
         "Comments": ""
     },
     {
@@ -2284,7 +2284,7 @@
         "Italian": "Reset console",
         "French": "",
         "Spanish": "Reiniciar consola",
-        "Russian": "Reset консоли",
+        "Russian": "RESET консоли",
         "Comments": ""
     },
     {
@@ -2295,7 +2295,7 @@
         "Italian": "Selezione console",
         "French": "",
         "Spanish": "Selección de consola",
-        "Russian": "Select консоли",
+        "Russian": "SELECT консоли",
         "Comments": ""
     },
     {
@@ -2306,7 +2306,7 @@
         "Italian": "Pausa console",
         "French": "",
         "Spanish": "Pausa de la consola",
-        "Russian": "Pause консоли",
+        "Russian": "PAUSE консоли",
         "Comments": ""
     },
     {
@@ -2427,7 +2427,7 @@
         "Italian": "Classico",
         "French": "",
         "Spanish": "Clásico",
-        "Russian": "Классическая",
+        "Russian": "Классический",
         "Comments": ""
     },
     {
@@ -2438,7 +2438,7 @@
         "Italian": "Moderno",
         "French": "",
         "Spanish": "Moderno",
-        "Russian": "Современная",
+        "Russian": "Современный",
         "Comments": ""
     },
     {
@@ -3120,7 +3120,7 @@
         "Italian": "EQ Alto",
         "French": "",
         "Spanish": "EQ Alto",
-        "Russian": "EQ высокие",
+        "Russian": "Эквализация высоких частот",
         "Comments": ""
     },
     {
@@ -3142,7 +3142,7 @@
         "Italian": "EQ Medio",
         "French": "",
         "Spanish": "EQ Medio",
-        "Russian": "EQ средние",
+        "Russian": "Эквализация средних частот",
         "Comments": ""
     },
     {
@@ -3164,7 +3164,7 @@
         "Italian": "EQ Basso",
         "French": "",
         "Spanish": "EQ Bajo",
-        "Russian": "EQ низкие",
+        "Russian": "Эквализация низких частот",
         "Comments": ""
     },
     {
@@ -3307,7 +3307,7 @@
         "Italian": "Quando si esegue contenuto Sega CD/Mega-CD, specifica se condividere una singola cartuccia di backup RAM per tutti i giochi (Per-Cartuccia) o creare una cartuccia di backup RAM separata per ogni gioco (Per-Gioco).",
         "French": "",
         "Spanish": "Al ejecutar contenido de Sega CD/Mega-CD, especifica si se debe compartir un único cartucho de memoria RAM de copia de seguridad para todos los juegos (por cartucho) o si se debe crear un cartucho de memoria RAM de copia de seguridad independiente para cada juego (por juego).",
-        "Russian": "Следует ли использовать один картридж CD Backup RAM для всех игр — режим [На один картридж], или для каждой игры будет создан отдельный картридж CD Backup RAM — режим [Каждая игра отдельно].",
+        "Russian": "Следует ли использовать один картридж CD Backup RAM для всех игр — режим [Общий картридж], или для каждой игры будет создан отдельный картридж CD Backup RAM — режим [Каждая игра отдельно].",
         "Comments": ""
     },
     {
@@ -3384,7 +3384,7 @@
         "Italian": "Mostra impostazioni avanzate del volume audio (Riapri menu)",
         "French": "",
         "Spanish": "Muestre la configuración de volumen de audio detallada (abra el menú nuevamente)",
-        "Russian": "Показать дополнительные настройки громкости звука (потребуется повторное открытие меню)",
+        "Russian": "Дополнительные настройки громкости звука",
         "Comments": ""
     },
     {
@@ -3395,7 +3395,7 @@
         "Italian": "Abilita la configurazione dei parametri di basso livello dei canali audio. NOTA: Il menu rapido deve essere attivato affinché questa impostazione abbia effetto.",
         "French": "",
         "Spanish": "Habilita la configuración de parámetros de canal de audio de bajo nivel. Nota: Para habilitar esta configuración, es necesario cambiar el menú rápido.",
-        "Russian": "Включить настройку параметров низкоуровневого аудиоканала. Примечание: Для вступления этой настройки в силу необходимо перезапустить быстрое меню.",
+        "Russian": "Включить настройку низкоуровневых параметров аудиоканала. Для вступления этой настройки в силу потребуется повторное открытие меню.",
         "Comments": ""
     },
     {
@@ -3923,7 +3923,7 @@
         "Italian": "Overclock della CPU emulata. Può ridurre il rallentamento, ma potrebbe causare glitch.",
         "French": "",
         "Spanish": "Overlockea la CPU emulada. Puede reducir la ralentización, pero puede causar fallos.",
-        "Russian": "Разгон эмулируемого процессора способен уменьшить торможение, но может вызвать сбои.",
+        "Russian": "Разгон эмулируемого процессора способен уменьшить замедление, но может вызвать сбои.",
         "Comments": ""
     },
     {
@@ -3945,7 +3945,7 @@
         "Italian": "Emula i blocchi del sistema che si verificano sull'hardware reale durante l'accesso a indirizzi illegali. Questo dovrebbe essere disabilitato solo quando si giocano determinati demo e homebrew che si basano su comportamenti illegali per un funzionamento corretto.",
         "French": "",
         "Spanish": "Emule los bloqueos del sistema que se producen en el hardware real al realizar un acceso ilegal a direcciones. Esto solo debe desactivarse cuando se juegan ciertas demos y homebrew que se basan en un comportamiento ilegal para su correcto funcionamiento.",
-        "Russian": "Имитировать блокировки системы, которые происходят на реальном оборудовании при доступе к недопустимым адресам. Это должно быть отключено только для определённых homebrew, которые используют такое поведение для корректной работы.",
+        "Russian": "Имитация блокировок системы, которые происходят на реальном оборудовании при доступе к недопустимым адресам. Это должно быть отключено только для определённых homebrew, которые используют такое поведение для корректной работы.",
         "Comments": ""
     },
     {
@@ -3956,7 +3956,7 @@
         "Italian": "Per cartuccia",
         "French": "",
         "Spanish": "Cada cartucho",
-        "Russian": "На один картридж",
+        "Russian": "Общий картридж",
         "Comments": ""
     },
     {
@@ -4011,7 +4011,7 @@
         "Italian": "Imposta il livello del preamplificatore audio del sintetizzatore FM Mega Drive/Genesis emulato o dell'unità audio FM Sega Mark III/Master System.",
         "French": "",
         "Spanish": "Ajuste el nivel del preamplificador de audio del sintetizador de sonido Mega Drive/Genesis FM emulado o de la unidad de sonido FM Sega Mark III/Master System.",
-        "Russian": "Уровень предусиления имитируемого FM синтезатора звука Mega Drive/Genesis или устройства FM Sound Unit системы Sega Mark III/Master System.",
+        "Russian": "Уровень предусиления эмулируемого FM синтезатора звука Mega Drive/Genesis или устройства FM Sound Unit системы Sega Mark III/Master System.",
         "Comments": ""
     },
     {
@@ -5111,7 +5111,7 @@
         "Italian": "Overclock della CPU SNES. Potrebbe causare il crash dei giochi! Usa 'AutoFastROM' per tempi di caricamento più brevi, 'Basso' per la maggior parte dei giochi che mostrano rallentamenti e 'Alto' solo se strettamente necessario.",
         "French": "",
         "Spanish": "Overclocking de CPU SNES. ¡Puede hacer que los juegos se bloqueen! Use 'AutoFastROM' para tiempos de carga más cortos, 'Bajo' para la mayoría de los juegos que muestran ralentizaciones y 'Alto' solo si es absolutamente necesario.",
-        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Режим [AutoFastROM] подойдёт для сокращения времени запуска, [Слабый] будет эффективен для большинства игр, в которых наблюдается замедление, а [Значительный] следует применять только в особых случаях. Необходим перезапуск.",
+        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Режим [AutoFastROM] подойдёт для сокращения времени запуска, [Низкое] будет эффективен для большинства игр, в которых наблюдается замедление, а [Высокое] следует применять только в особых случаях. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -5133,7 +5133,7 @@
         "Italian": "Basso",
         "French": "",
         "Spanish": "Bajo",
-        "Russian": "Слабый",
+        "Russian": "Низкое",
         "Comments": ""
     },
     {
@@ -5144,7 +5144,7 @@
         "Italian": "Alto",
         "French": "",
         "Spanish": "Alto",
-        "Russian": "Значительный",
+        "Russian": "Высокое",
         "Comments": ""
     },
     {
@@ -5452,7 +5452,7 @@
         "Italian": "Simula la risposta fisica del pannello LCD del Game Boy Color quando illuminato da diverse angolazioni. 'Centrale' rappresenta la riproduzione del colore standard. 'Sopra lo Schermo' aumenta la luminosità. 'Sotto lo Schermo' riduce la luminosità. Questa impostazione si applica solo quando 'Modalità di Correzione Colore' è impostata su 'Accurato'.",
         "French": "",
         "Spanish": "Simula la respuesta física del panel LCD de Game Boy Color cuando se ilumina desde diferentes ángulos. 'Medio' representa la reproducción estándar del color. 'Por encima de la pantalla' aumenta el brillo. 'Under Screen' reduce el brillo. Esta configuración solo se aplica cuando 'Modo de corrección de color' está configurado en 'Preciso'.",
-        "Russian": "Имитирует физическую реакцию ЖК-экрана Game Boy Color при освещении под разными углами. [По центру] означает стандартную цветопередачу. [Выше экрана] увеличивает яркость. [Ниже экрана] уменьшает яркость. Эта настройка применяется только в том случае, если для параметра “Режим цветокоррекции” установлено значение [Точно].",
+        "Russian": "Имитация физической реакции ЖК-экрана Game Boy Color при освещении под разными углами. [По центру] означает стандартную цветопередачу. [Выше экрана] увеличивает яркость. [Ниже экрана] уменьшает яркость. Эта настройка применяется только в том случае, если для параметра “Режим цветокоррекции” установлено значение [Точно].",
         "Comments": ""
     },
     {
