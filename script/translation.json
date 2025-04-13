@@ -425,7 +425,7 @@
         "Italian": "Molti giochi per SNES soffrivano di rallentamenti a causa della debole CPU principale. Questa opzione aiuta a mitigare ciò al costo di possibili bug. COMPATIBILE: riduce i rallentamenti ma mantiene la compatibilità con i giochi il più possibile. MASSIMO: riduce i rallentamenti il più possibile ma romperà più giochi.",
         "French": "",
         "Spanish": "Muchos juegos para SNES sufrieron una ralentización debido a la debilidad de la CPU principal. Esta opción ayuda a aliviar eso a costa de posibles errores. COMPATIBLE: Reduce la ralentización pero mantén la mayor compatibilidad posible con el juego. MAX: Reduce la ralentización tanto como sea posible, pero romperá más juegos.",
-        "Russian": "Многие игры для SNES страдают от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, но сохраняет совместимость с играми, насколько это возможно. [Max] — максимально снижает замедление, но при этом значительно нарушает игровой процесс. Необходим перезапуск.",
+        "Russian": "Многие игры для SNES страдают от замедлений из-за слабого основного процессора. Этот параметр помогает устранить эту проблему ценой возможных ошибок. [Compatible] — уменьшает замедление, по возможности сохраняя максимальную совместимость с играми. [Max] — максимально снижает замедление, но может существенно нарушить игровой процесс. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -1107,7 +1107,7 @@
         "Italian": "Qualità audio",
         "French": "",
         "Spanish": "Calidad de sonido",
-        "Russian": "Качество звука",
+        "Russian": "Уровень качества звука",
         "Comments": ""
     },
     {
@@ -1118,7 +1118,7 @@
         "Italian": "Abilita un suono di qualità superiore. Aumenta i requisiti di prestazioni.",
         "French": "",
         "Spanish": "Permite un sonido de mayor calidad. Aumenta los requisitos de rendimiento.",
-        "Russian": "Включение более качественного звука повысит требования к производительности.",
+        "Russian": "Более качественный звук повышает требования к производительности устройства.",
         "Comments": ""
     },
     {
@@ -5100,7 +5100,7 @@
         "Italian": "Riduci Rallentamenti (Non Sicuro, Riavvio)",
         "French": "",
         "Spanish": "Reducir las ralentizaciones (inseguro, reinicio)",
-        "Russian": "Сокращение замедлений (нестабильно)",
+        "Russian": "Режим разгона для устранения замедлений",
         "Comments": ""
     },
     {
@@ -5111,7 +5111,7 @@
         "Italian": "Overclock della CPU SNES. Potrebbe causare il crash dei giochi! Usa 'AutoFastROM' per tempi di caricamento più brevi, 'Basso' per la maggior parte dei giochi che mostrano rallentamenti e 'Alto' solo se strettamente necessario.",
         "French": "",
         "Spanish": "Overclocking de CPU SNES. ¡Puede hacer que los juegos se bloqueen! Use 'AutoFastROM' para tiempos de carga más cortos, 'Bajo' para la mayoría de los juegos que muestran ralentizaciones y 'Alto' solo si es absolutamente necesario.",
-        "Russian": "Разгон процессора SNES. Может привести к сбоям в играх! Режим [AutoFastROM] подойдёт для сокращения времени запуска, [Низкое] будет эффективен для большинства игр, в которых наблюдается замедление, а [Высокое] следует применять только в особых случаях. Необходим перезапуск.",
+        "Russian": "Разгон процессора SNES. Небезопасно, может привести к сбоям в играх! Режим [AutoFastROM] подойдёт для сокращения времени запуска, [Низкий] будет эффективен для большинства игр, в которых наблюдается замедление, а [Высокий] следует применять только в особых случаях. Необходим перезапуск.",
         "Comments": ""
     },
     {
@@ -5133,7 +5133,7 @@
         "Italian": "Basso",
         "French": "",
         "Spanish": "Bajo",
-        "Russian": "Низкое",
+        "Russian": "Низкий",
         "Comments": ""
     },
     {
@@ -5144,7 +5144,7 @@
         "Italian": "Alto",
         "French": "",
         "Spanish": "Alto",
-        "Russian": "Высокое",
+        "Russian": "Высокий",
         "Comments": ""
     },
     {
