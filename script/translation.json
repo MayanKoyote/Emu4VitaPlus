@@ -513,7 +513,7 @@
         "Italian": "Seleziona la tavolozza utilizzata per colorare i giochi Game Boy quando 'Colorazione GB' è impostata su 'Interno', o quando 'Colorazione GB' è impostata su 'Automatico' e il gioco non ha una tavolozza SGB/GBC predefinita. Le tavolozze 'GB' imitano la visualizzazione dell'hardware Game Boy originale. Le tavolozze 'GBC' sono identiche ai preset integrati di Game Boy Color. Le tavolozze 'SGB' sono identiche ai preset integrati di Super Game Boy.",
         "French": "",
         "Spanish": "Selecciona la paleta utilizada para colorear los juegos de Game Boy cuando 'Coloración GB' está configurada en 'Interna', o cuando 'Coloración GB' está configurada en 'Automático' y el juego no tiene una paleta SGB/GBC predefinida. Las paletas 'GB' imitan la pantalla del hardware original de Game Boy. Las paletas 'GBC' son idénticas a los ajustes preestablecidos incorporados de Game Boy Color. Las paletas 'SGB' son idénticas a los ajustes preestablecidos incorporados de la Super Game Boy.",
-        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра “Колоризация GB” установлено значение [Внутренняя], или если для параметра “Колоризация GB” установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение оригинального Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
+        "Russian": "Палитра, используемая для колоризации игр Game Boy, если для параметра “Колоризация GB” установлено значение [Внутренняя], или если для параметра “Колоризация GB” установлено значение [Автоматически] и в игре нет предустановленной палитры SGB/GBC. Палитры 'GB' имитируют отображение настоящего Game Boy. Палитры 'GBC' идентичны встроенным предустановкам Game Boy Color. Палитры 'SGB' идентичны встроенным предустановкам Super Game Boy.",
         "Comments": ""
     },
     {
@@ -3945,7 +3945,7 @@
         "Italian": "Emula i blocchi del sistema che si verificano sull'hardware reale durante l'accesso a indirizzi illegali. Questo dovrebbe essere disabilitato solo quando si giocano determinati demo e homebrew che si basano su comportamenti illegali per un funzionamento corretto.",
         "French": "",
         "Spanish": "Emule los bloqueos del sistema que se producen en el hardware real al realizar un acceso ilegal a direcciones. Esto solo debe desactivarse cuando se juegan ciertas demos y homebrew que se basan en un comportamiento ilegal para su correcto funcionamiento.",
-        "Russian": "Имитация блокировок системы, которые происходят на реальном оборудовании при доступе к недопустимым адресам. Это должно быть отключено только для определённых homebrew, которые используют такое поведение для корректной работы.",
+        "Russian": "Имитация блокировок системы, которые происходят на настоящем оборудовании при доступе к недопустимым адресам. Это должно быть отключено только для определённых homebrew, которые используют такое поведение для корректной работы.",
         "Comments": ""
     },
     {
@@ -4297,7 +4297,7 @@
         "Italian": "La Modalità Interlacciata 2 consente al Mega Drive/Genesis di produrre un'immagine a doppia altezza (alta risoluzione) di 320x448 disegnando linee di scansione alternate ogni fotogramma (utilizzato in Sonic the Hedgehog 2 e nelle modalità multiplayer di Combat Cars). 'Doppio Campo' imita l'hardware originale, producendo un'immagine nitida con artefatti di sfarfallio/interlacciamento. 'Campo Singolo' applica un filtro di deinterlacciamento, che stabilizza l'immagine ma causa un leggero sfuocamento.",
         "French": "",
         "Spanish": "El modo entrelazado 2 permite a Mega Drive/Genesis producir una imagen de doble altura (alta resolución) de 320x448 dibujando líneas de escaneo alternas en cada fotograma (utilizado en los modos multijugador Sonic the Hedgehog 2 y Combat Cars). 'Double Field' imita el hardware original, produciendo una imagen nítida con artefactos de parpadeo/entrelazado. 'Campo único' aplica un filtro de desentrelazado, que estabiliza la imagen pero provoca un ligero desenfoque.",
-        "Russian": "Чересстрочный режим 2 позволяет Mega Drive/Genesis выводить изображение двойной высоты (320×448 для NTSC, 320x480 для PAL), отрисовывая чередующиеся линии развёртки в каждом кадре (эта возможность используется в многопользовательских режимах Sonic the Hedgehog 2 и Combat Cars). Режим [Double Field] точно имитирует оригинальное оборудование, демонстрируя чёткое изображение, но с мерцанием и артефактами чересстрочной развёртки. Режим [Single Field] применяет фильтр деинтерлейсинга, стабилизирующий изображение, но вызывающий лёгкое размытие.",
+        "Russian": "Чересстрочный режим 2 (Interlaced Mode 2) позволяет Mega Drive/Genesis выводить изображение двойной высоты (320×448 для NTSC, 320x480 для PAL), отрисовывая чередующиеся линии развёртки в каждом кадре (эта возможность используется в многопользовательских режимах Sonic the Hedgehog 2 и Combat Cars). Режим [Double Field] точно имитирует оригинальное оборудование, демонстрируя чёткое изображение, но с мерцанием и артефактами чересстрочной развёртки. Режим [Single Field] применяет фильтр деинтерлейсинга, стабилизирующий изображение, но вызывающий лёгкое размытие.",
         "Comments": ""
     },
     {
